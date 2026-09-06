@@ -1,8 +1,13 @@
 # Next Steps
 
-1. Initialize `PROJECT_BRIEF.md` from confirmed user input and repository
-   evidence.
-2. Replace the placeholder status in `CURRENT_STATE.md` with the verified state.
-3. Record the first prioritized project actions here.
-4. Move unresolved questions into a clearly labeled blockers or questions
-   section.
+1. Sebastian and each collaborator: use the onboarding prompt in README.md to
+   update main, preserve local work, and enable memory sync in your own clone.
+2. Verify a real handoff: save a small useful idea with one collaborator's agent,
+   then confirm another collaborator receives it at session start.
+3. Start the first FastFix discussion. Record concise ideas and open questions
+   in a dated session note; add decisions only when approved.
+
+## Open questions
+
+- What specific meeting outcomes and project priorities should guide FastFix?
+- Collaborator machine setup and app permissions need verification on each machine.

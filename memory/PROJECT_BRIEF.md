@@ -1,31 +1,25 @@
 # Project Brief
 
-Status: Not yet initialized
+## Confirmed purpose
 
-## Purpose
+FastFix Meetings is a shared repository for John, Sebastian, and invited
+collaborators to develop ideas and retain context between Claude Code and Codex.
+Sebastian initialized it using John's unified-memory template.
 
-To be completed from confirmed user input and repository evidence.
+## Scope and desired outcomes
 
-## Intended users
-
-To be confirmed.
-
-## Desired outcomes
-
-To be confirmed.
-
-## Scope
-
-To be confirmed.
-
-## Non-goals
-
-To be confirmed.
+- Record concise ideas, approved decisions, current status, and next steps.
+- Share memory through GitHub without requesting a push for every update.
+- Preserve contributions and enable straightforward handoffs between agents.
 
 ## Constraints
 
-To be confirmed.
+Each collaborator needs a real clone, GitHub write access, Git, and Python 3.9+.
+Sync happens at agent checkpoints; ordinary web chats are outside scope.
+Store no secrets, sensitive customer data, or transcripts. Product requirements
+and meeting content beyond this workflow remain open.
 
 ## Success criteria
 
-To be confirmed.
+One collaborator's memory checkpoint can be published and read by another
+collaborator's agent while unrelated work and conflicting versions are preserved.

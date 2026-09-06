@@ -2,25 +2,24 @@
 
 ## Evidence
 
-- Distinguish confirmed facts from assumptions and recommendations.
-- Verify important claims in proportion to their risk.
-- Do not invent project facts to fill missing context.
+Distinguish confirmed facts, assumptions, proposals, and approved decisions.
+Verify important claims in proportion to risk. Never invent missing facts.
 
 ## Safety
 
-- Never store secrets, passwords, API keys, access tokens, credentials, or
-  sensitive personal/customer data in project memory.
-- Preserve user-authored work and unrelated changes.
-- Obtain user approval before consequential external actions.
+Never store secrets, passwords, tokens, credentials, or sensitive customer/personal
+data in memory. Preserve user-authored work. Routine memory Markdown publishing
+is authorized by AGENTS.md after one-time setup. Other consequential external
+actions require the user's request.
 
 ## Validation
 
-- Inspect the project before changing it.
-- Use the project's documented checks when available.
-- Report what was verified and what remains uncertain.
+Inspect before changing. Use documented checks; report what was verified and
+what remains uncertain. For sync changes run the local Git integration tests.
 
 ## Memory handoff
 
-After substantial work, update `CURRENT_STATE.md` and `NEXT_STEPS.md`. Record
-only durable, approved decisions in `DECISIONS.md`. Keep updates concise and do
-not copy chat transcripts into memory.
+After useful progress or brainstorming, update concise summaries as needed,
+save a dated session note, and run memory sync. Record only approved decisions in
+DECISIONS.md; label ideas as proposals. Never copy raw chat transcripts. Report
+whether the checkpoint was published or remains locally saved with sync pending.
