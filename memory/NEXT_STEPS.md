@@ -4,10 +4,11 @@
    update main, preserve local work, and enable memory sync in your own clone.
 2. Verify a real handoff: save a small useful idea with one collaborator's agent,
    then confirm another collaborator receives it at session start.
-3. Start the first FastFix discussion. Record concise ideas and open questions
-   in a dated session note; add decisions only when approved.
+3. Use the September 8 task-routing recommendations and simple prompts to start
+   selected workstreams; provide each workstream its relevant files and access.
 
 ## Open questions
 
-- What specific meeting outcomes and project priorities should guide FastFix?
+- Which existing bots and bank, accounting, CRM, and email integrations actually work end to end?
+- Which workstream should be executed first? Proposed priorities are collections, platform stability, and funnel readiness.
 - Collaborator machine setup and app permissions need verification on each machine.

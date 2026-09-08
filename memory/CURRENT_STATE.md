@@ -1,6 +1,6 @@
 # Current State
 
-Last updated: 2026-09-05
+Last updated: 2026-09-08
 
 ## Verified implementation
 
@@ -32,4 +32,5 @@ Last updated: 2026-09-05
 - Sebastian's local setup cannot be verified from John's machine.
 - This is agent-driven checkpoint syncing, not an always-running background
   service. It depends on agents following instructions and having tool access.
-- Product requirements and substantive meeting agenda are still unspecified.
+- Sebastian's planning transcript covers acquisition and funnel work, development QA and feedback handling, template customization, customer data migration, accounting, legal research, grants, spending, collections, and email assistance.
+- Proposed task routing: ChatGPT for research, commercial decisions, and financial analysis; Claude Code for implementation and workflow infrastructure; Claude Cowork for document and operational work. These are recommendations, not approved architecture decisions. Preserve working integrations when choosing where a task runs.
