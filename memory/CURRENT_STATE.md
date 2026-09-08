@@ -27,6 +27,8 @@ Last updated: 2026-09-08
 
 ## Rollout and limitations
 
+- September 8 creative demo: `demos/sketch-pursuit/` contains a playable standalone racing-game recreation from John's uploaded reel. Verified driving, traffic collisions, police capture, scoring, nitro, and pause/restart. This uses original Canvas graphics; Viewmax was not installed. See the corresponding session note.
+
 - Every collaborator must update their clone and enable sync once with their own
   Git identity, GitHub write access, Git, and Python 3.9+.
 - Sebastian's local setup cannot be verified from John's machine.
