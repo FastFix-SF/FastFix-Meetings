@@ -1,5 +1,7 @@
 # Current State
 
+- English-only Notion update (September 9): all 48 FastFix Tasks titles and task bodies are now in English, including the two older cards. The native person field is named `Notion Account`; all workflow views keep it hidden and display the name-based `Owner` field. A full fetch scan found no remaining Spanish task text after excluding Sebastián's proper name.
+
 - Owner-field correction (September 9): the visible `Owner` field now uses name tags so John, Sebastián, Alberto, and joint assignments appear. The native Notion person property is preserved as `Cuenta Notion`. All four task views show `Owner` and hide `Cuenta Notion`; 23 approved new cards have named owners and 23 remain intentionally unassigned.
 
 Last updated: 2026-09-09

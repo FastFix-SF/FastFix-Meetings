@@ -1,5 +1,7 @@
 # Approved transcript tasks in Notion
 
+- English-only correction: translated all 46 newly created task titles and full planning briefs into English. Also translated the remaining Spanish status words inside the two older cards and renamed `Cuenta Notion` to `Notion Account`. Queried all 48 rows and fetched all 48 page bodies; the final scan found no remaining Spanish task text, excluding Sebastián's proper name. Owners, urgency, stages, and due-date values were preserved.
+
 - Owner-field correction: after John reported the visible `Owner` column was missing responsible people, renamed the native person property to `Cuenta Notion` and the name-based multi-select to `Owner`. All four views now show `Owner` and hide `Cuenta Notion`. This preserves John’s native account links while displaying Sebastián, Alberto, and joint assignments without requiring workspace invitations.
 
 - John authorized creating tasks from the September 3–5 draft with his spoken edits, short Spanish titles, natural planning briefs, inferred urgency and stated owners.
