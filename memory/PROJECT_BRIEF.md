@@ -24,3 +24,5 @@ and meeting content beyond this workflow remain open.
 
 One collaborator's memory checkpoint can be published and read by another
 collaborator's agent while unrelated work and conflicting versions are preserved.
+
+- September 9 workflow scope: use Fastfix Highway in Notion as the transcript-to-task board for this Codex chat, supporting planning, agent iteration, human review, and approved execution.
