@@ -1,6 +1,6 @@
 # Current State
 
-Last updated: 2026-09-08
+Last updated: 2026-09-09
 
 ## Verified implementation
 
@@ -26,6 +26,9 @@ Last updated: 2026-09-08
   the initial live GitHub sync returned "Memory is up to date."
 
 ## Rollout and limitations
+
+- September 9 ideation proposal: John wants a company-wide improvement engine that filters external signals against FastFix's actual needs, presents owners a small A/B/C shortlist, and runs selected work through planner/executor/independent-critic repair cycles. His existing GrokBot connections to ChatGPT and Claude are user-reported; the bot runtime and operational access remain unverified.
+- Proposed design: two linked stages (evidence-based idea selection, then bounded execution), with zero qualifying ideas allowed, independent tests, and outcome measurement after delivery. Model routing and pilot cadence remain proposals. See the September 9 idea-engine session note for sources and implementation prerequisites.
 
 - September 8 creative demo: `demos/sketch-pursuit/` contains a playable standalone racing-game recreation from John's uploaded reel. Verified driving, traffic collisions, police capture, scoring, nitro, and pause/restart. This uses original Canvas graphics; Viewmax was not installed. See the corresponding session note.
 

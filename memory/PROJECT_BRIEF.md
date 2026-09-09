@@ -11,6 +11,7 @@ Sebastian initialized it using John's unified-memory template.
 - Record concise ideas, approved decisions, current status, and next steps.
 - Share memory through GitHub without requesting a push for every update.
 - Preserve contributions and enable straightforward handoffs between agents.
+- Develop a company-wide idea engine proposal: connect relevant external signals to FastFix problems, filter for evidence and value, offer owners a small shortlist, and execute selected work through a planner/executor/independent-critic loop.
 
 ## Constraints
 

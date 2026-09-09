@@ -9,6 +9,8 @@
 
 ## Open questions
 
+- Idea-engine proposal: identify the existing GrokBot runtime and verify scheduling, durable jobs, model/tool routing, and actual FastFix access; then choose one measured pilot workflow and its spending/action boundaries. Review the visual proposal before implementing a service.
+
 - Which existing bots and bank, accounting, CRM, and email integrations actually work end to end?
 - Which workstream should be executed first? Proposed priorities are collections, platform stability, and funnel readiness.
 - Collaborator machine setup and app permissions need verification on each machine.
