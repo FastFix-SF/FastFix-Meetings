@@ -1,5 +1,7 @@
 # Approved transcript tasks in Notion
 
+- Owner-field correction: after John reported the visible `Owner` column was missing responsible people, renamed the native person property to `Cuenta Notion` and the name-based multi-select to `Owner`. All four views now show `Owner` and hide `Cuenta Notion`. This preserves John’s native account links while displaying Sebastián, Alberto, and joint assignments without requiring workspace invitations.
+
 - John authorized creating tasks from the September 3–5 draft with his spoken edits, short Spanish titles, natural planning briefs, inferred urgency and stated owners.
 - Created 46 cards; queried all 48 database rows including two existing cards. Local task payload and page manifests: `Notion-Tareas-Aprobadas-2026-09-09.json` and `Notion-Tareas-Creadas-2026-09-09.json`. These local artifacts were not published to GitHub.
 - Excluded FF-06–11, FF-13–14, FF-16–19, FF-25–26, FF-33–34, FF-46–47. FF-20 merged into FF-02; FF-37 into FF-36; FF-40 into FF-39. Kept FF-12 because its cancellation was not explicit. FF-68 remained outside the recommended backlog; FF-69 folded into account verification; FF-70 treated as a communication preference, not a standalone manipulation task.
