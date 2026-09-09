@@ -28,3 +28,7 @@ This standing authorization covers memory; other publishing still needs a reques
 
 ## 2026-09-09 — Transcript task organization
 **Decision:** John authorized organizing transcripts supplied in this chat into clear Notion tasks, preserving explicit assignees, deciding urgency, and simplifying the Fastfix Highway board. Work progresses through planning and agent iteration to human review; the team can request rework or choose to publish/execute. Urgency explanations and uncertain details are recorded on cards.
+
+## 2026-09-09 — Approved task scope and owners
+
+**Decision:** John approved adding the reviewed transcript tasks with simple Spanish titles and natural planning briefs. Keep FF-41 grants; discard FF-47. Combine networking with San Francisco outreach and investor tracking with fund research. Sebastián defines the initial AI roles before John and Sebastián set current pricing. John owns per-channel lead metrics and the urgent nightly test/repair bot proposal; Alberto owns human app testing before store submission. The nightly bot is a planning task, not an activated schedule.
