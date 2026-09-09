@@ -39,6 +39,11 @@
 - Agent Reach check-update reports installed v1.5.0 is current. No packages or harness were installed.
 - Existing untracked demos/ work was preserved.
 
+## Deliverable and validation
+
+- Self-contained interactive HTML: `/Users/johnmontejano/.agent/diagrams/fastfix-idea-engine-2026-09-09.html` (local artifact, not a shared hosted service). Includes full illustrative owner cards, claim-filter examples, role comparison, harness analysis, pilot plan, and linked primary sources.
+- Browser verification: 1440px desktop light mode and 390px mobile dark mode; mobile intrinsic table-width issue repaired. Both final viewport and document widths match at 390px. A/B/C card selection and all three filter examples respond correctly. No broken section links or browser console errors in the desktop check. Unique IDs, complete HTML, embedded assets, and JavaScript syntax also checked.
+
 ## Next concrete action
 
 Review the visual proposal, identify GrokBot's runtime and existing permissions, then choose one workflow with a real baseline and define a bounded pilot. No production service, recurring automation, external messaging, deployment, or paid model execution was created in this session.
