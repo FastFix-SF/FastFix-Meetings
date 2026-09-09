@@ -9,7 +9,7 @@
 
 ## Open questions
 
-- Idea-engine proposal: identify the existing GrokBot runtime and verify scheduling, durable jobs, model/tool routing, and actual FastFix access; then choose one measured pilot workflow and its spending/action boundaries. Review the visual proposal before implementing a service.
+- Idea engine: attach local FASTFIX_IDEA_ENGINE_PLAN.md to the FastFix Grok Bot Personal conversation and send its setup instruction. GrokBot should verify included access, build the separate Notion board and persistent research/execution workflow, and demonstrate acceptance checks before activating the 72-hour shortlist schedule. No extra paid usage.
 
 - Which existing bots and bank, accounting, CRM, and email integrations actually work end to end?
 - Which workstream should be executed first? Proposed priorities are collections, platform stability, and funnel readiness.

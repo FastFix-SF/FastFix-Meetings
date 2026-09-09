@@ -1,5 +1,14 @@
 # FastFix company-wide idea engine
 
+## Final approved handoff — supersedes earlier proposals below
+
+- John selected Grok Bot Personal for FastFix, a three-day shortlist, owner A/B/C selection before execution, and a separate Improvement Engine board below the existing ToDos/FastFix Tasks board in Fastfix Highway.
+- No extra paid usage: only the existing GrokBot $200/month subscription and connected Claude Code/Codex CLI access. The interim $50/month budget was explicitly withdrawn.
+- Required source flow: Grok finds fresh X posts; OpenAI through Codex CLI investigates original sources with Agent Reach; Claude also uses Agent Reach for current research and independent verification. Model recollection or agreement does not replace retrieval.
+- John approved implementing the plan and asked how to hand it to GrokBot. Created `FASTFIX_IDEA_ENGINE_PLAN.md` in this repository with the complete approved build specification and a plain-English bootstrap instruction. This file is local; memory sync does not publish non-memory files.
+- Handoff includes actual-access checks, persistent jobs, daily collection/72-hour digest, no-cost capacity handling, Notion placement, version-bound approval, independent execution roles, bounded repairs, recovery tests, and outcome measurement.
+- Status: handoff prepared, not engine deployed. No GrokBot instruction was sent and no scheduler or Notion board was created in this turn. Next action is to attach the Markdown in the FastFix Grok Bot Personal conversation and send its setup instruction. GrokBot must demonstrate capability checks and acceptance tests before declaring activation.
+
 ## Confirmed objective and context
 
 - John wants a rigorous improvement-idea engine spanning marketing, the platform, automation, and company processes. Owners should receive a small A/B/C shortlist and select work for execution.

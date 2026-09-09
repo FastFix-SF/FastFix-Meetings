@@ -1,5 +1,11 @@
 # Decision Log
 
+## 2026-09-09 — FastFix idea engine operating choices
+
+**Decision:** John approved the company-wide idea/execution engine plan and asked for a Markdown handoff and plain-English setup instruction for GrokBot. Use Grok Bot Personal for FastFix, existing GrokBot subscription and connected Claude Code/Codex CLI access only, with no additional paid usage. Grok discovers fresh X signals; OpenAI investigates original claims through Agent Reach; Claude independently researches/verifies through Agent Reach. Deliver zero to three choices every three days; owners select before opportunity execution. Use a separate FastFix Improvement Engine board below the existing task board inside Fastfix Highway. Repairs follow planner → executor → separate critic → planner with bounded stopping rules.
+
+**Reasoning:** Delegate substantial work to existing CLI access, preserve owner choice, and filter current AI developments through source evidence and FastFix relevance rather than hype. Earlier $50/month and weekly-cadence suggestions are superseded.
+
 ## Template decision — Use portable repository memory
 
 **Decision:** Keep durable unified context in tracked Markdown files under
