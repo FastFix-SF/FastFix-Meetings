@@ -19,3 +19,4 @@
 - For new transcripts in this chat, inspect Fastfix Highway, merge matching ideas, preserve explicit owners, assign urgency with a short reason, and record source context and completion criteria.
 - Next: receive the first new transcript; clarify the Repurpose Recreate deliverable and run the idea-engine planning task when requested.
 - The September 3–5 Wispr transcript export is complete and ready for John to review or supply as the next transcript intake source.
+- John: review candidate IDs FF-01 through FF-70 in the local Notion draft; specify approvals, removals, combinations, owners, or urgency changes. Only then update Fastfix Highway.
