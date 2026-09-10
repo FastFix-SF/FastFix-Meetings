@@ -99,3 +99,8 @@ Recovered two technical failures to verified final review. One is ready pending 
 ### 2026-09-10 14:25 UTC remaining-route audit
 - Separate official candidate-profile route loads but Next fails through semantic, native mouse, and keyboard actions; no code or form reached. No diagnostic error explains failure.
 - Generated private status report from all 100 authoritative rows. No new submission. Remaining progress depends on applicant input/consents, authentication/CAPTCHA, or external portal change. First explicit impasse audit; goal active. Avoid unchanged button retries.
+
+
+### 2026-09-10 blocker revalidation
+- Second consecutive impasse audit: database outcomes unchanged; live CAPTCHA submit disabled and required software tenure unanswered. No new applicant replies or submissions.
+- Shared memory fetch timed out again. Private tracker and handoff saved; goal active until blocked threshold.
