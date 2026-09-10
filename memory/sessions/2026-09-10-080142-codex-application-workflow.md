@@ -61,3 +61,5 @@ Continuation: three more listings advanced. Two final-review forms require CAPTC
 
 
 Continuation checkpoint: inspected three additional routes. One employer Apply button failed to open its form; one requires account sign-in; one reached review with CAPTCHA. No new submission. Private tracker updated; continue remaining queue. Applicant personal details stay outside shared memory.
+
+Continuation through four more listings: three reached verified review with CAPTCHA; one application remained on a loading screen after reload. No new submissions. Private tracker now shows eight queued listings. Next: continue remaining queue, then resolve technical and user-input blockers.
