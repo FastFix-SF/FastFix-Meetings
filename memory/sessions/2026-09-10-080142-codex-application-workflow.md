@@ -29,3 +29,8 @@
 - Eight further listings inspected: three reached final review, five require additional applicant facts. No additional confirmed submission.
 - A delayed review completed naturally after checking another listing. One direct employer form also has an unresolved upload-control issue.
 - Private ledger/checkpoint updated with exact states and remaining questions. Current browser forms retained for continuation; next new listing is 28.
+
+### Network fallback checkpoint
+- Two short-link routes encountered network failures; official employer fallback reached one filled application, but submission validation requires missing applicant information. No receipt.
+- Another application reached final review with active CAPTCHA; action-time permission requested.
+- Shared memory fetch timed out at start, so local memory may be stale. Local progress preserved; sync retry pending. Next new listing is loading in a retained browser tab.
