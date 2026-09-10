@@ -24,3 +24,8 @@
 - Direct employer upload recovered through the visible drop-zone control; fixed approved PDF verified.
 - Browser handoff retention restored for pending forms. Continue queue and resume approved forms only after actual replies; one application route is undergoing a retry following a visible technical error.
 - Technical retry succeeded: a third additional form is now at final review with consent pending. Private checkpoint refreshed; no new confirmed submission.
+
+### Continued application queue
+- Eight further listings inspected: three reached final review, five require additional applicant facts. No additional confirmed submission.
+- A delayed review completed naturally after checking another listing. One direct employer form also has an unresolved upload-control issue.
+- Private ledger/checkpoint updated with exact states and remaining questions. Current browser forms retained for continuation; next new listing is 28.
