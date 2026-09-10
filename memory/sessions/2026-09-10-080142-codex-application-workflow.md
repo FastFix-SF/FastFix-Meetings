@@ -75,3 +75,9 @@ Technical recovery checkpoint: one employer portal recovered to account verifica
 Recovery evidence: two failed source links now load valid listings, but downstream application pages still fail or stall. One employer identity is now confirmed from the live description for alternate-route research. Another employer Apply button remains nonresponsive. No new submissions. Private checkpoint holds exact next actions.
 
 Recovered two technical failures to verified final review. One is ready pending terms; another found via employer listing page is blocked by CAPTCHA. No new submissions. Three technical failures remain. Private checkpoint updated; continue recovery and unresolved inputs.
+
+
+### 2026-09-10 14:08 UTC recovery checkpoint
+- Recovered one failed application to final review; CAPTCHA prevents submission. Authoritative private tracker: 1 applied, 18 prepared, 29 CAPTCHA, 28 needs input, 19 login issues, 2 technical failures, 3 expired.
+- Oracle Apply Now remains unresponsive. One saved screening tab disappeared after webview attach timeout; reconstruct and reverify its unconfirmed answer before any submission.
+- Pending tabs retained. Next: supplemental-document UI recovery, remaining technical route, and pending applicant facts/consents. No new submission.
