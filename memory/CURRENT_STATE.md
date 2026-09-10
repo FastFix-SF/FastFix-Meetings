@@ -54,4 +54,4 @@ Last updated: 2026-09-09
 
 ### Application workflow checkpoint
 
-Private fixed-batch setup is complete; browser preparation has reached three final reviews, with zero verified submissions. Consent/account/technical blockers and the resumable queue are tracked privately. No native autonomous launcher is running.
+Private fixed-batch setup is complete. One employer application has a verified receipt; three others are at final review. All secondary-board listing routes were inspected, including two explicit expirations. The remaining queue and consent/account/technical blockers are tracked privately. No native autonomous launcher is running.
