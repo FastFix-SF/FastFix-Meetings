@@ -35,6 +35,9 @@ Last updated: 2026-09-09
 
 ## Rollout and limitations
 
+- September 10 refinement: John selected Claude Code for actual FastFix platform implementation, with Codex independently verifying and GrokBot coordinating the planner/executor/critic handoffs. Local FASTFIX_IDEA_ENGINE_PLAN.md now includes this routing plus explicit capability-discovery/retest proposals within the existing opportunity-led track. CLI help confirms non-interactive interfaces, not working GrokBot dispatch; deployment remains unverified.
+
+
 - September 9 approved idea-engine handoff: use Grok Bot Personal for FastFix with existing subscription/Claude Code/Codex CLI access and no additional paid usage. Grok discovers X signals; OpenAI and Claude use Agent Reach for research and independent verification. Present zero to three owner choices every three days, then execute selected briefs through the planner/executor/critic loop.
 - Created local FASTFIX_IDEA_ENGINE_PLAN.md with the complete build specification and GrokBot setup prompt. Approved Notion destination is a separate FastFix Improvement Engine board below the existing task board in Fastfix Highway. Handoff is ready; GrokBot dispatch, scheduling, research access, and the board still need implementation/verification. No service activated here.
 

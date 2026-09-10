@@ -13,6 +13,8 @@
 
 ## Open questions
 
+- Use the revised FASTFIX_IDEA_ENGINE_PLAN.md handoff: Claude plans and codes actual platform changes; Codex independently verifies. Prove GrokBot-to-Claude dispatch and result persistence with a harmless test before activating the engine. Opportunity-led research now explicitly includes internal capability hypotheses and evidence-triggered retesting; actual experiments still await owner selection.
+
 - Proposed idea-engine refinement from the supplied Boris interview: make product-capability experiments and retesting previously unsuccessful AI ideas explicit within opportunity-led discovery. The relevant "product overhang" passage is 11:00–13:53; the experiment/retest passage is 18:19–19:30. This is a proposal, not a changed implementation plan; see the September 10 transcript-interpretation session note.
 
 - Idea engine: attach local FASTFIX_IDEA_ENGINE_PLAN.md to the FastFix Grok Bot Personal conversation and send its setup instruction. GrokBot should verify included access, build the separate Notion board and persistent research/execution workflow, and demonstrate acceptance checks before activating the 72-hour shortlist schedule. No extra paid usage.
