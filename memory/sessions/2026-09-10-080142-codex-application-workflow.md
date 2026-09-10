@@ -54,3 +54,5 @@ Continuation: three further listings reviewed. One requires software/work-style 
 Continuation: three more listings advanced. One prepared application after reload recovered a stalled document; one final-review CAPTCHA; one pre-application verification hold. No new submission. Pending forms retained, private checkpoint updated. Prior shared sync published. Next: remaining queue and outstanding inputs.
 
 Continuation: three more listings advanced. One bookkeeping questionnaire needs facts; two final-review applications have active CAPTCHA, including one employer display-name discrepancy noted for confirmation. Approved materials used; no new submission. Tabs retained and private checkpoint updated. Prior shared sync published. Next: remaining queue and pending inputs.
+
+Continuation: three additional exact-source applications reached final review, each with active CAPTCHA. Approved materials verified; one employer identity remains uncertain and was flagged in pending consent. No new submission. Tabs retained, private checkpoint updated; prior shared sync published. Next: remaining queue and outstanding inputs.
