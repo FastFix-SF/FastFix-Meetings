@@ -67,3 +67,5 @@ Continuation through four more listings: three reached verified review with CAPT
 Continuation through three additional listings: two need screening facts absent from the approved materials; one reached verified review with CAPTCHA. No new submissions. Five listings remain queued. Prior shared-memory fetch timed out; private checkpoint and handoff remain local. Continue remaining listings and recover failed routes.
 
 Continuation through three more listings: one requires account verification; one requires applicant-policy agreement before remaining questions; one needs unsupported screening facts. No new submissions. Two listings remain queued. Private tracker updated and tabs retained; next finish initial queue then recover failures.
+
+Initial queue now exhausted: all rows have recorded outcomes. One more requires certification; one reached review with CAPTCHA. Also recovered an earlier loading failure to review. No new submissions. Private checkpoint retains an availability-date display ambiguity to verify before submission. Next: technical recovery and outstanding answers.
