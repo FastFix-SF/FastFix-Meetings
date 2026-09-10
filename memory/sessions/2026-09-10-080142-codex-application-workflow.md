@@ -65,3 +65,5 @@ Continuation checkpoint: inspected three additional routes. One employer Apply b
 Continuation through four more listings: three reached verified review with CAPTCHA; one application remained on a loading screen after reload. No new submissions. Private tracker now shows eight queued listings. Next: continue remaining queue, then resolve technical and user-input blockers.
 
 Continuation through three additional listings: two need screening facts absent from the approved materials; one reached verified review with CAPTCHA. No new submissions. Five listings remain queued. Prior shared-memory fetch timed out; private checkpoint and handoff remain local. Continue remaining listings and recover failed routes.
+
+Continuation through three more listings: one requires account verification; one requires applicant-policy agreement before remaining questions; one needs unsupported screening facts. No new submissions. Two listings remain queued. Private tracker updated and tabs retained; next finish initial queue then recover failures.
