@@ -87,3 +87,10 @@ Recovered two technical failures to verified final review. One is ready pending 
 - Native accessibility action resolved supplemental-editor failure; resume-supported introduction verified. Stale inherited letter replaced. Application now held at CAPTCHA.
 - Tracker: 1 submitted, 18 prepared, 30 CAPTCHA, 28 needs input, 19 login issues, 1 technical failure, 3 expired.
 - Oracle apply button still unresponsive after native action and reload. Pending forms retained; next repair unverified saved screening answers using native AX controls.
+
+
+### 2026-09-10 14:19 UTC answer audit
+- Corrected unsupported administrative tenure to resume-supported completed years; final review verified.
+- Cleared unsupported software tenure using keyboard selection and Backspace; required software years still need applicant input.
+- Date picker confirms previously ambiguous availability means September 10, 2026.
+- No new submission. Private tracker updated; pending forms retained. Next remaining technical route and applicant facts/consents.
