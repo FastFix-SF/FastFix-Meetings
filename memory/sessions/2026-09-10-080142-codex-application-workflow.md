@@ -23,3 +23,4 @@
 - Two more applications reached final review; destination-specific legal-terms approvals pending. Two additional forms require missing applicant facts.
 - Direct employer upload recovered through the visible drop-zone control; fixed approved PDF verified.
 - Browser handoff retention restored for pending forms. Continue queue and resume approved forms only after actual replies; one application route is undergoing a retry following a visible technical error.
+- Technical retry succeeded: a third additional form is now at final review with consent pending. Private checkpoint refreshed; no new confirmed submission.
