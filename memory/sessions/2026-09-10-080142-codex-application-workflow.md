@@ -71,3 +71,5 @@ Continuation through three more listings: one requires account verification; one
 Initial queue now exhausted: all rows have recorded outcomes. One more requires certification; one reached review with CAPTCHA. Also recovered an earlier loading failure to review. No new submissions. Private checkpoint retains an availability-date display ambiguity to verify before submission. Next: technical recovery and outstanding answers.
 
 Technical recovery checkpoint: one employer portal recovered to account verification; another failed source recovered to review but listing-requested examples need user facts. A third source still gives connection errors. No new submissions. Private tracker updated; continue remaining technical recovery.
+
+Recovery evidence: two failed source links now load valid listings, but downstream application pages still fail or stall. One employer identity is now confirmed from the live description for alternate-route research. Another employer Apply button remains nonresponsive. No new submissions. Private checkpoint holds exact next actions.
