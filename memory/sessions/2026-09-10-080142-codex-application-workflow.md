@@ -114,3 +114,9 @@ Recovered two technical failures to verified final review. One is ready pending 
 ### Applicant preference update
 - Applied newly confirmed application preference to both private execution profiles and private status report. No personal rationale stored or included in application text.
 - Verified a conflicting mandatory authorization remains unselected; affected applications stay on hold. No additional submission. Refer to private checkpoint for exact policy and affected rows.
+
+
+### Resumed preference enforcement
+- Propagated new private instruction to three authoritative application holds. Updated trusted profile checksum with audit history after checking resume hashes unchanged and both profile copies identical.
+- Earlier receipt and some draft tabs now absent; historical confirmed-submission evidence remains authoritative. Existing tabs retained; no resubmission.
+- No new submissions. Fresh resumed impasse audit1; remaining prerequisites unchanged.
