@@ -81,3 +81,9 @@ Recovered two technical failures to verified final review. One is ready pending 
 - Recovered one failed application to final review; CAPTCHA prevents submission. Authoritative private tracker: 1 applied, 18 prepared, 29 CAPTCHA, 28 needs input, 19 login issues, 2 technical failures, 3 expired.
 - Oracle Apply Now remains unresponsive. One saved screening tab disappeared after webview attach timeout; reconstruct and reverify its unconfirmed answer before any submission.
 - Pending tabs retained. Next: supplemental-document UI recovery, remaining technical route, and pending applicant facts/consents. No new submission.
+
+
+### 2026-09-10 14:13 UTC supplemental recovery
+- Native accessibility action resolved supplemental-editor failure; resume-supported introduction verified. Stale inherited letter replaced. Application now held at CAPTCHA.
+- Tracker: 1 submitted, 18 prepared, 30 CAPTCHA, 28 needs input, 19 login issues, 1 technical failure, 3 expired.
+- Oracle apply button still unresponsive after native action and reload. Pending forms retained; next repair unverified saved screening answers using native AX controls.
