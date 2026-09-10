@@ -58,3 +58,6 @@ Continuation: three more listings advanced. One bookkeeping questionnaire needs 
 Continuation: three additional exact-source applications reached final review, each with active CAPTCHA. Approved materials verified; one employer identity remains uncertain and was flagged in pending consent. No new submission. Tabs retained, private checkpoint updated; prior shared sync published. Next: remaining queue and outstanding inputs.
 
 Continuation: three more listings advanced. Two final-review forms require CAPTCHA; one awaits typed applicant-certification consent after supported experience fields completed. Optional unsupported questions were left blank where allowed. No new submission. Active forms retained and private checkpoint updated; prior sync published. Next: remaining queue and outstanding inputs.
+
+
+Continuation checkpoint: inspected three additional routes. One employer Apply button failed to open its form; one requires account sign-in; one reached review with CAPTCHA. No new submission. Private tracker updated; continue remaining queue. Applicant personal details stay outside shared memory.
