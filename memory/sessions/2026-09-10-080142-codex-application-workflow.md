@@ -13,3 +13,8 @@
 - Inspected all secondary-board listing routes; found two explicit expirations and recorded login/consent blockers. Main-board verification interrupts access.
 - Public direct-employer fallback found one usable form. Research API quota and reader authentication errors limit additional automated research.
 - Next: continue exact employer-route lookup, resolve pending approvals, and resume preserved forms without duplicate submissions. Private ledger is authoritative for counts; no applicant details stored here.
+
+### Continuation checkpoint
+- Advanced three additional supplied applications to final review; legal-terms confirmations remain pending. No additional confirmed submission.
+- One earlier verification barrier cleared naturally; that form now needs missing applicant information. Another screening form also needs unsupported experience details.
+- Exact private ledger and browser recovery checkpoint updated outside shared repository. Continue remaining queue and act on actual user replies; preserve duplicate-submission guards.
