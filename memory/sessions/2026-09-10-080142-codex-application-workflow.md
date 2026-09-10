@@ -52,3 +52,5 @@ Continuation: two further forms reached final review but have active CAPTCHA. Th
 Continuation: three further listings reviewed. One requires software/work-style screening answers; one final-review form is CAPTCHA-blocked; one exact source explicitly expired and recorded closed. No new submission. All active tabs retained; private checkpoint updated. Prior sync published. Next: remaining queue and unresolved inputs.
 
 Continuation: three more listings advanced. One prepared application after reload recovered a stalled document; one final-review CAPTCHA; one pre-application verification hold. No new submission. Pending forms retained, private checkpoint updated. Prior shared sync published. Next: remaining queue and outstanding inputs.
+
+Continuation: three more listings advanced. One bookkeeping questionnaire needs facts; two final-review applications have active CAPTCHA, including one employer display-name discrepancy noted for confirmation. Approved materials used; no new submission. Tabs retained and private checkpoint updated. Prior shared sync published. Next: remaining queue and pending inputs.
