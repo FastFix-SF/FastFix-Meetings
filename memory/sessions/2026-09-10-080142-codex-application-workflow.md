@@ -36,3 +36,5 @@
 - Shared memory fetch timed out at start, so local memory may be stale. Local progress preserved; sync retry pending. Next new listing is loading in a retained browser tab.
 
 Continuation checkpoint: one additional source-link connection timeout recorded; next source also fails navigation and remains queued. Browser search remains available. Draft tabs and prior confirmed receipt retained; no new submission. Private checkpoint updated. Shared sync fetch timed out twice; local memory may be stale. Next: continue remaining queue and resolve pending user answers.
+
+Continuation: delayed navigation recovered two listing pages; do not treat observation timeouts as terminal failures. Two more forms reached final review, one requires a factual answer. Private ledger/checkpoint updated; pending forms retained. One verified submission remains. Next: continue remaining queue and resolve pending inputs. Shared sync remains pending after network timeout.
