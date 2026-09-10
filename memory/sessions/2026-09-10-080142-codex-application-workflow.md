@@ -135,3 +135,8 @@ Recovered two technical failures to verified final review. One is ready pending 
 ### CAPTCHA research correction
 - Rechecked upstream README/source and current provider documentation. Optional paid solver is documented; reviewed browser run did not test that integration. Native source lacks explicit Enterprise task mapping; provider supports Enterprise but notes token rejection/configuration issues.
 - Research saved outside repo under Agent Reach research directory. No live solver test, spending, or new submission. Need a bounded test before claiming this resolves Indeed.
+
+
+### CapSolver trial setup
+- User authorized a CapSolver trial. Checked only key-presence booleans: not configured in expected environment/files. Dashboard requires login; setup tab retained for user.
+- No solver request or purchase. Account setup and spending limit needed; private trial plan saved. Preserve all application restrictions.
