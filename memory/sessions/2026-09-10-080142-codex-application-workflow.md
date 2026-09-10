@@ -34,3 +34,5 @@
 - Two short-link routes encountered network failures; official employer fallback reached one filled application, but submission validation requires missing applicant information. No receipt.
 - Another application reached final review with active CAPTCHA; action-time permission requested.
 - Shared memory fetch timed out at start, so local memory may be stale. Local progress preserved; sync retry pending. Next new listing is loading in a retained browser tab.
+
+Continuation checkpoint: one additional source-link connection timeout recorded; next source also fails navigation and remains queued. Browser search remains available. Draft tabs and prior confirmed receipt retained; no new submission. Private checkpoint updated. Shared sync fetch timed out twice; local memory may be stale. Next: continue remaining queue and resolve pending user answers.
