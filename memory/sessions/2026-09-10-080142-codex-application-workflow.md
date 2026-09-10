@@ -94,3 +94,8 @@ Recovered two technical failures to verified final review. One is ready pending 
 - Cleared unsupported software tenure using keyboard selection and Backspace; required software years still need applicant input.
 - Date picker confirms previously ambiguous availability means September 10, 2026.
 - No new submission. Private tracker updated; pending forms retained. Next remaining technical route and applicant facts/consents.
+
+
+### 2026-09-10 14:25 UTC remaining-route audit
+- Separate official candidate-profile route loads but Next fails through semantic, native mouse, and keyboard actions; no code or form reached. No diagnostic error explains failure.
+- Generated private status report from all 100 authoritative rows. No new submission. Remaining progress depends on applicant input/consents, authentication/CAPTCHA, or external portal change. First explicit impasse audit; goal active. Avoid unchanged button retries.
