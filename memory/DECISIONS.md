@@ -1,5 +1,11 @@
 # Decision Log
 
+## 2026-09-10 — Idea engine must not release platform changes
+
+**Decision:** John has not yet supplied the Markdown to GrokBot and explicitly requires that project work not be pushed to the main production branch. Revised the handoff to development-and-review only: isolated feature branches, Claude implementation, Codex verification, local patch or draft PR after checking deployment triggers, and owner-managed release. No bot production push, merge, deployment, or bypass. A/B/C approval is not release authority. Unverified branch/deployment protections mean local-only work with remote writes disabled.
+
+**Reasoning:** Protect the actual platform while allowing ideation, prototypes, and verified changes. These are documented requirements; live platform protections have not been inspected or configured. Separate shared planning-memory publishing remains authorized.
+
 ## 2026-09-10 — Claude implements platform changes
 
 **Decision:** John explicitly wants Claude to code the actual FastFix platform, triggered/coordinated by GrokBot. Updated the idea-engine handoff to assign platform planning and implementation to Claude Code and independent verification to Codex. Findings return through Claude's planner and executor. Pause rather than silently replacing Claude with Codex for platform implementation.

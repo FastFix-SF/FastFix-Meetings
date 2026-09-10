@@ -13,6 +13,8 @@
 
 ## Open questions
 
+- John has not yet given GrokBot the handoff. Supply the current FASTFIX_IDEA_ENGINE_PLAN.md, including the September 10 production boundary. Before unattended remote platform writes, GrokBot must verify branch protections, credential scope, and deployment triggers; otherwise retain local-only changes. Owner selection permits development/testing, not release.
+
 - Use the revised FASTFIX_IDEA_ENGINE_PLAN.md handoff: Claude plans and codes actual platform changes; Codex independently verifies. Prove GrokBot-to-Claude dispatch and result persistence with a harmless test before activating the engine. Opportunity-led research now explicitly includes internal capability hypotheses and evidence-triggered retesting; actual experiments still await owner selection.
 
 - Proposed idea-engine refinement from the supplied Boris interview: make product-capability experiments and retesting previously unsuccessful AI ideas explicit within opportunity-led discovery. The relevant "product overhang" passage is 11:00–13:53; the experiment/retest passage is 18:19–19:30. This is a proposal, not a changed implementation plan; see the September 10 transcript-interpretation session note.
