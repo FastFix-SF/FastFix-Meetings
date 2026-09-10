@@ -130,3 +130,8 @@ Recovered two technical failures to verified final review. One is ready pending 
 ### Resumed blocker audit3
 - Third consecutive resumed impasse confirmed: no new applicant replies, live required software answers blank and CAPTCHA submit disabled. No new submission; counts unchanged.
 - Goal marked blocked, not complete. Existing drafts retained. Resume from private tracker when actual prerequisites change; preserve explicit contact restriction.
+
+
+### CAPTCHA research correction
+- Rechecked upstream README/source and current provider documentation. Optional paid solver is documented; reviewed browser run did not test that integration. Native source lacks explicit Enterprise task mapping; provider supports Enterprise but notes token rejection/configuration issues.
+- Research saved outside repo under Agent Reach research directory. No live solver test, spending, or new submission. Need a bounded test before claiming this resolves Indeed.
