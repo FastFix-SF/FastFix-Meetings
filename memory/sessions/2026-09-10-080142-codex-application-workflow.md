@@ -69,3 +69,5 @@ Continuation through three additional listings: two need screening facts absent 
 Continuation through three more listings: one requires account verification; one requires applicant-policy agreement before remaining questions; one needs unsupported screening facts. No new submissions. Two listings remain queued. Private tracker updated and tabs retained; next finish initial queue then recover failures.
 
 Initial queue now exhausted: all rows have recorded outcomes. One more requires certification; one reached review with CAPTCHA. Also recovered an earlier loading failure to review. No new submissions. Private checkpoint retains an availability-date display ambiguity to verify before submission. Next: technical recovery and outstanding answers.
+
+Technical recovery checkpoint: one employer portal recovered to account verification; another failed source recovered to review but listing-requested examples need user facts. A third source still gives connection errors. No new submissions. Private tracker updated; continue remaining technical recovery.
