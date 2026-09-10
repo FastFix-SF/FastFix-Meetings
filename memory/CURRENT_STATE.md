@@ -1,5 +1,7 @@
 # Current State
 
+- Advisor sprint intake (September 9): extracted a 10-day work program from the Sujay/John/Sebastian meeting into the existing FastFix Tasks database. The prior 48 cards are preserved under `Previous backlog` in the renamed `Archived backlog — Sep 3–5` board. A new `Advisor sprint — Sep 9–19` list contains 30 extracted cards plus one contemporaneous user-created Indeed task, all due September 19. Sprint themes are retention metrics and customer calls, Bay Area revenue, repeatable sales materials and Indeed outreach, priority customer product improvements, secure advisor access, and pausing lower-ROI work. These are reviewable proposals for the advisor, not proof that execution has begun.
+
 - English-only Notion update (September 9): all 48 FastFix Tasks titles and task bodies are now in English, including the two older cards. The native person field is named `Notion Account`; all workflow views keep it hidden and display the name-based `Owner` field. A full fetch scan found no remaining Spanish task text after excluding Sebastián's proper name.
 
 - Owner-field correction (September 9): the visible `Owner` field now uses name tags so John, Sebastián, Alberto, and joint assignments appear. The native Notion person property is preserved as `Cuenta Notion`. All four task views show `Owner` and hide `Cuenta Notion`; 23 approved new cards have named owners and 23 remain intentionally unassigned.
