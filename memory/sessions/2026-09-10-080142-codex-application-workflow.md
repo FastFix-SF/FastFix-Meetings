@@ -18,3 +18,8 @@
 - Advanced three additional supplied applications to final review; legal-terms confirmations remain pending. No additional confirmed submission.
 - One earlier verification barrier cleared naturally; that form now needs missing applicant information. Another screening form also needs unsupported experience details.
 - Exact private ledger and browser recovery checkpoint updated outside shared repository. Continue remaining queue and act on actual user replies; preserve duplicate-submission guards.
+
+### Further queue progress
+- Two more applications reached final review; destination-specific legal-terms approvals pending. Two additional forms require missing applicant facts.
+- Direct employer upload recovered through the visible drop-zone control; fixed approved PDF verified.
+- Browser handoff retention restored for pending forms. Continue queue and resume approved forms only after actual replies; one application route is undergoing a retry following a visible technical error.
