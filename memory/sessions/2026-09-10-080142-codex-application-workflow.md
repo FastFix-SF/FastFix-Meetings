@@ -48,3 +48,5 @@ Continuation: three listings advanced through exact source or verified employer 
 Continuation: three more exact listings reached final review with approved materials and supported answers. All three require active CAPTCHA confirmation; none submitted. Drafts retained and private ledger/checkpoint updated. Prior shared sync published. Next: remaining listings and pending confirmations.
 
 Continuation: two further forms reached final review but have active CAPTCHA. Third source has employer-name discrepancy and unconfirmed prefilled experience; edit-control retry also needed. No new submission; forms retained and private checkpoint updated. Shared sync timed out, local records preserved. Next: remaining queue and unresolved inputs.
+
+Continuation: three further listings reviewed. One requires software/work-style screening answers; one final-review form is CAPTCHA-blocked; one exact source explicitly expired and recorded closed. No new submission. All active tabs retained; private checkpoint updated. Prior sync published. Next: remaining queue and unresolved inputs.
