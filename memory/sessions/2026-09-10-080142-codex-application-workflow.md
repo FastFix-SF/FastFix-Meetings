@@ -109,3 +109,8 @@ Recovered two technical failures to verified final review. One is ready pending 
 ### Final blocked audit
 - Third consecutive impasse verified. Outcomes unchanged, no new applicant replies, live CAPTCHA and unanswered required software fields persist. Goal blocked pending applicant input or external change; not complete.
 - All drafts and confirmed receipt retained. Private full status report available. Previous memory publish succeeded.
+
+
+### Applicant preference update
+- Applied newly confirmed application preference to both private execution profiles and private status report. No personal rationale stored or included in application text.
+- Verified a conflicting mandatory authorization remains unselected; affected applications stay on hold. No additional submission. Refer to private checkpoint for exact policy and affected rows.
