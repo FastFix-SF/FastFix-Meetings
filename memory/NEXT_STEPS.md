@@ -32,3 +32,5 @@
 - Approved September 3–5 tasks are now in FastFix Highway. Next: choose cards for planning, assign the 23 unassigned cards, and verify Sebastián's existing receptionist before treating it as finished. Sebastián defines scope in FF-02 before John and Sebastián finalize pricing in FF-21. John's urgent FF-61 is the nighttime test/repair bot planning task; execution and scheduling remain future work.
 
 - Application workflow: resolve pending consent prompts, resume preserved browser forms, verify submission evidence, and continue the private queue. Keep applicant data outside shared memory.
+
+- Application workflow: resolve the concrete final-review consent, then continue with the native ApplyPilot stack and record only verified submission receipts; do not repeat paid CAPTCHA tasks without checking prior results.
