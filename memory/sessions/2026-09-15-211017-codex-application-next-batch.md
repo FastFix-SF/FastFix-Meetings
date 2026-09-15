@@ -1,0 +1,4 @@
+# Application batch checkpoint
+Recovery batch finished successfully. Three additional submissions are now independently verified from browser receipt results. Two other applications remain blocked by missing experience durations, already asked asynchronously.
+The next five-job batch was launched and polled live. A following five-job batch is prepared but not launched; one browser writer is preserved. The private queue contains 79 candidates including explicit exclusions and completed outcomes. Screening and all remaining applications are unfinished; full discovery coverage has not been proven. Source logs, exact process handles, receipt verification records, and private report remain outside this repository.
+Next action: poll the current browser batch using the private handoff, verify each receipt, continue the queue, and reconcile additional search candidates. Do not count search results or unverified status claims as submissions.

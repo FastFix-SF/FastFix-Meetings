@@ -61,3 +61,5 @@ Last updated: 2026-09-09
 - Application discovery recovery: 767 search records exported, eight further candidates shortlisted for live verification. Prior batch ended in an API DNS failure; recovery process observed live. New submissions remain unverified; private run holds evidence and handoff.
 
 - Expanded application progress: two additional browser receipts verified; 1,156 discovery records exported. Two screening-fact blockers recorded, recovery still live, and next batch prepared. Private reports distinguish verified submissions from queued and unverified outcomes.
+
+- Application continuation: recovery finished with three new receipt-verified submissions; next five-job batch launched and observed live. Two factual blockers remain pending applicant answers. Private queue and report retain exclusions, duplicate checks, and verification evidence.
