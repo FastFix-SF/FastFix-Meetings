@@ -32,4 +32,4 @@
 - Approved September 3–5 tasks are now in FastFix Highway. Next: choose cards for planning, assign the 23 unassigned cards, and verify Sebastián's existing receptionist before treating it as finished. Sebastián defines scope in FF-02 before John and Sebastián finalize pricing in FF-21. John's urgent FF-61 is the nighttime test/repair bot planning task; execution and scheduling remain future work.
 
 
-- Application workflow: continue sequential staged batches and verify receipts. Preserve the user’s employer-contact restriction and factual-answer boundaries. Reconcile the private status report; do not duplicate prior submissions.
+- Application workflow: browser runs have ended. Resume only when missing screening facts, approved attachment choice, or personal-mailbox access is available. Use the private queue/report and verify receipts before any retry. Preserve employer-contact restriction.
