@@ -67,3 +67,5 @@ Last updated: 2026-09-09
 - Application checkpoint: eight additional submissions independently receipt-verified; next five-job batch launched. Private queue has two factual blockers, 65 queued candidates, and four scope exclusions. Full task remains unfinished.
 
 - Application checkpoint: 13 additional submissions independently verified; six paid CAPTCHA solves recorded for this run. Next five-job batch live, following batch prepared. Full discovery and remaining applications are unfinished; private handoff is authoritative for handles and evidence.
+
+- Application checkpoint: 17 additional submissions independently verified after recovering an API interruption; nine paid CAPTCHA tasks recorded. Next five-job batch active, following batch prepared. Full search and remaining applications unfinished; private handoff contains authoritative handles.

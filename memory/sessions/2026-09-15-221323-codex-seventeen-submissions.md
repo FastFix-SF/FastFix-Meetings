@@ -1,0 +1,4 @@
+# Application checkpoint
+Additional run now has 17 independently verified submission receipts. An API DNS interruption was recovered only after verifying the prior process was terminal; existing drafts and completed applications were preserved. Nine paid CAPTCHA tasks recorded across this additional run.
+One listing was excluded after live review confirmed field supervision rather than administrative work. Receipt inspection now retains browser snapshots after echoed code and rejects automation-code matches as submission proof. All 17 verified records still pass the stricter check.
+Next five-job batch launched and observed live; following batch prepared. Private handoff has exact handles and next steps. Two factual blockers remain pending answers. Discovery coverage, screening, and remaining eligible applications are unfinished. No personal applicant data or credentials stored in shared memory.
