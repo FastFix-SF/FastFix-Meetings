@@ -33,4 +33,4 @@
 
 - Application workflow: resolve pending consent prompts, resume preserved browser forms, verify submission evidence, and continue the private queue. Keep applicant data outside shared memory.
 
-- Application workflow: resolve the concrete final-review consent, then continue with the native ApplyPilot stack and record only verified submission receipts; do not repeat paid CAPTCHA tasks without checking prior results.
+- Application workflow: continue the active native batch, reconcile verified receipts, then retry the staged CAPTCHA cases; retain missing-fact/account-access and expired-listing blockers without inventing answers or duplicating submissions.
