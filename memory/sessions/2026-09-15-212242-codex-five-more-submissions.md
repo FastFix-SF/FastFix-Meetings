@@ -1,0 +1,4 @@
+# Application progress
+The five-job batch completed with five actual browser submission receipts independently verified. The additional-run total is eight verified submissions. None of the five needed paid CAPTCHA solving. The prior three paid solves remain verified, and the latest checked balance is preserved privately.
+A further five-job batch was launched. Private handoff records its live process handle and exact next action. One browser writer remains the rule. The private report distinguishes eight verified outcomes, two factual blockers, 65 queued candidates, and four scope exclusions. Full discovery and eligible-job completion remain unproven and unfinished.
+Next: poll the current batch, verify receipts against browser results, reconcile the report, and continue the remaining queue with original-list and repost exclusions. Applicant details and credentials are omitted from shared memory.

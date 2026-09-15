@@ -63,3 +63,5 @@ Last updated: 2026-09-09
 - Expanded application progress: two additional browser receipts verified; 1,156 discovery records exported. Two screening-fact blockers recorded, recovery still live, and next batch prepared. Private reports distinguish verified submissions from queued and unverified outcomes.
 
 - Application continuation: recovery finished with three new receipt-verified submissions; next five-job batch launched and observed live. Two factual blockers remain pending applicant answers. Private queue and report retain exclusions, duplicate checks, and verification evidence.
+
+- Application checkpoint: eight additional submissions independently receipt-verified; next five-job batch launched. Private queue has two factual blockers, 65 queued candidates, and four scope exclusions. Full task remains unfinished.
