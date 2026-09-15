@@ -1,0 +1,4 @@
+# Application progress
+Two additional applications were independently verified using actual browser submission receipts. Two other candidates need factual screening durations; the remaining recovery application is running. No unsupported experience answers supplied.
+Native geographic discovery finished without errors and expanded the searchable database to 1,156 records. Search records are not applications. Candidate queue now includes further reviewed possibilities, while irrelevant and outside-area entries are explicitly excluded. Private reports separate verified submissions from unverified claims and queued work.
+Next: poll the live recovery handle recorded privately, reconcile its last outcome, then run the prepared next batch with one browser writer. Full coverage and all eligible submissions remain incomplete. Credentials and applicant details are omitted from shared memory.
