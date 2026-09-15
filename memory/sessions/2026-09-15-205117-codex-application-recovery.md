@@ -1,0 +1,3 @@
+# Application workflow recovery
+Expanded authorized discovery scope remains all matching Bay Area construction/home-service administrative jobs, excluding the original list and duplicates. Native discovery produced 767 records; metadata export matches that count. These are search results, not applications. Eight additional candidates were shortlisted for live identity and duplicate checks.
+The prior application process was verified terminal after an API DNS failure. A recovery batch was launched and polled live. No new submission count was asserted. Private evidence and exact process handles remain outside this shared repository. Next action: poll recovery, verify actual receipts, continue the queue, and audit discovery coverage. Work is unfinished.

@@ -33,3 +33,5 @@
 
 
 - Application workflow: browser runs have ended. Resume only when missing screening facts, approved attachment choice, or personal-mailbox access is available. Use the private queue/report and verify receipts before any retry. Preserve employer-contact restriction.
+
+- Expanded application run: poll the live recovery process using the private handoff, verify receipts, and continue screening/submission with duplicate and employer-contact restrictions. Discovery records are not submission counts.

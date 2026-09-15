@@ -57,3 +57,5 @@ Last updated: 2026-09-09
 
 ### Application workflow checkpoint
 - Application workflow: 32 receipt-verified submissions and 10 previously submitted entries are recorded privately. CAPTCHA/loading retries succeeded. Remaining entries require applicant facts/consent, an available listing, or retrieval of the approved resume for external portals/email. Sensitive details and live handles remain private.
+
+- Application discovery recovery: 767 search records exported, eight further candidates shortlisted for live verification. Prior batch ended in an API DNS failure; recovery process observed live. New submissions remain unverified; private run holds evidence and handoff.
