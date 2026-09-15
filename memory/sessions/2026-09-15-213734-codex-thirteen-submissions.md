@@ -1,0 +1,4 @@
+# Application progress
+Another five-job batch completed with five independently verified browser submission receipts. The additional search now has 13 verified submissions. Six paid CAPTCHA tasks have been recorded in the additional run, associated with verified submissions. Many other applications required no paid solve.
+The next batch was launched and polled live. Following batch prepared but not launched, preserving one browser writer. Private reports and handoff hold exact process handles, receipt source IDs, and next actions. Broader title screening identified five more potentially relevant roles for live review; other matches still need semantic screening. Full discovery and all eligible applications remain incomplete.
+Next: poll current batch, verify receipts, reconcile, and continue queued work. Two missing-fact blockers remain awaiting answers. Applicant information and credentials are omitted from shared memory.

@@ -65,3 +65,5 @@ Last updated: 2026-09-09
 - Application continuation: recovery finished with three new receipt-verified submissions; next five-job batch launched and observed live. Two factual blockers remain pending applicant answers. Private queue and report retain exclusions, duplicate checks, and verification evidence.
 
 - Application checkpoint: eight additional submissions independently receipt-verified; next five-job batch launched. Private queue has two factual blockers, 65 queued candidates, and four scope exclusions. Full task remains unfinished.
+
+- Application checkpoint: 13 additional submissions independently verified; six paid CAPTCHA solves recorded for this run. Next five-job batch live, following batch prepared. Full discovery and remaining applications are unfinished; private handoff is authoritative for handles and evidence.
