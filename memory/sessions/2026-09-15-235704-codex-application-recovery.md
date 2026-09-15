@@ -1,0 +1,3 @@
+# Application recovery checkpoint
+
+One further submission independently verified against its browser receipt and role context, bringing additional-search total to25. Last batch ended at its configured turn limit. Targeted recovery observed live and private handoff updated with exact process handles. Corrected application-account entry handling: ordinary entry/registration is within existing application authorization; actual missing verification or login remains a blocker. Different local resume copies were not substituted for the authorized account resume. Future ordinary-flow prompts updated. Remaining queue and broader discovery review are unfinished. No personal data is stored here.

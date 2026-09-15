@@ -73,3 +73,5 @@ Last updated: 2026-09-09
 - Application receipt audit: 24 additional submissions independently verified. Last batch exhausted its turn limit; completed applications preserved. Fifty candidates remain queued; private handoff records evidence and next batch. Full task remains unfinished.
 
 - Application continuation: completed five more live candidate checks; no new receipts in that batch. Three drafts/portal blockers and two scope exclusions recorded privately. Four additional candidates queued after duplicate review. Following batch observed live; full task remains unfinished.
+
+- Application checkpoint: 25 additional submissions independently receipt-verified. Following batch reached its turn limit; a targeted recovery was launched and observed live. Corrected an overly conservative account-entry blocker; remaining applications and discovery review are unfinished.
