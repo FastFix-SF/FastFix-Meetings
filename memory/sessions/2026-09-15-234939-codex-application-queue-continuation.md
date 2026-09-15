@@ -1,0 +1,3 @@
+# Application queue continuation
+
+Completed the next five candidate checks. No new confirmed submissions; drafts and portal blockers recorded privately, and two roles excluded after live duty review. Four further construction/home-service candidates added for live checks and three original-role reposts excluded. Existing submission total remains 24 for the additional search. Next batch was observed live at checkpoint. Private handoff holds the process handle, evidence paths, pending facts, and next actions. The full queue and discovery review remain unfinished. No personal data is included here.

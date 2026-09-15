@@ -71,3 +71,5 @@ Last updated: 2026-09-09
 - Application checkpoint: 17 additional submissions independently verified after recovering an API interruption; nine paid CAPTCHA tasks recorded. Next five-job batch active, following batch prepared. Full search and remaining applications unfinished; private handoff contains authoritative handles.
 
 - Application receipt audit: 24 additional submissions independently verified. Last batch exhausted its turn limit; completed applications preserved. Fifty candidates remain queued; private handoff records evidence and next batch. Full task remains unfinished.
+
+- Application continuation: completed five more live candidate checks; no new receipts in that batch. Three drafts/portal blockers and two scope exclusions recorded privately. Four additional candidates queued after duplicate review. Following batch observed live; full task remains unfinished.
