@@ -57,3 +57,4 @@ Last updated: 2026-09-09
 
 ### Application workflow checkpoint
 Explicit final consent is recorded and submissions are progressing through the native ApplyPilot stack. Twenty-four submissions and ten previously applied listings are now recorded with private evidence. The CAPTCHA retry batch is active and has produced verified receipts using fresh solver responses. Some listings have expired, and missing factual answers/account access remain unresolved. Details and process handles stay in the private handoff.
+- Application workflow: 27 verified submissions and 10 previously submitted entries in the private queue. Remaining cases require factual answers, employer account access, an available posting, or resolution of a loading failure. Applicant details and browser state remain in the private handoff.

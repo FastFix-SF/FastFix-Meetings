@@ -31,6 +31,5 @@
 - The September 3–5 Wispr transcript export is complete and ready for John to review or supply as the next transcript intake source.
 - Approved September 3–5 tasks are now in FastFix Highway. Next: choose cards for planning, assign the 23 unassigned cards, and verify Sebastián's existing receptionist before treating it as finished. Sebastián defines scope in FF-02 before John and Sebastián finalize pricing in FF-21. John's urgent FF-61 is the nighttime test/repair bot planning task; execution and scheduling remain future work.
 
-- Application workflow: resolve pending consent prompts, resume preserved browser forms, verify submission evidence, and continue the private queue. Keep applicant data outside shared memory.
 
-- Application workflow: continue the active native batch, reconcile verified receipts, then retry the staged CAPTCHA cases; retain missing-fact/account-access and expired-listing blockers without inventing answers or duplicating submissions.
+- Application workflow: continue sequential staged batches and verify receipts. Preserve the user’s employer-contact restriction and factual-answer boundaries. Reconcile the private status report; do not duplicate prior submissions.
