@@ -89,3 +89,5 @@ Last updated: 2026-09-09
 - Claude Work UI restored through normal application-menu quit and restart. Existing continuation message now visibly confirmed received; task resumed. Child CLI authentication remains under diagnosis, distinct from terminal login. Agent Reach found Reddit macOS freeze reports and upstream USER/config-directory Keychain issues; sent read-only diagnostic findings to the existing chat. No approval controls changed; no new verified submission count.
 
 - Claude Work diagnostic update: UI and chat execution restored; application worker remains blocked by child authentication. Deeper diagnostics denied by its approval review. Candidate screening continues; authentication cause remains unconfirmed. No new submissions verified.
+
+- Independent application-queue audit confirmed and removed two additional duplicates: an original-list repost and a syndicated vacancy. Current private report:26 verified additional submissions,58 queued,17 blocked,3 duplicates plus scope exclusions. Claude Work received findings and updated records; worker authentication still blocks new submissions. Full goal unfinished.
