@@ -93,3 +93,9 @@ Last updated: 2026-09-09
 - Independent application-queue audit confirmed and removed two additional duplicates: an original-list repost and a syndicated vacancy. Current private report:26 verified additional submissions,58 queued,17 blocked,3 duplicates plus scope exclusions. Claude Work received findings and updated records; worker authentication still blocks new submissions. Full goal unfinished.
 
 - Scope review completed:48 queued jobs remain,26 additional submissions verified,17 blocked. Ten unsuitable additions excluded and two duplicates removed during independent audit and writer review. Claude Work confirms its own CLI auth status loggedIn:false/authMethod:none. Same authentication blocker persisted across three consecutive goal turns; normal interactive authentication is required before submission can resume. Deeper diagnostics and alternate direct-browser execution were rejected by its approval review; no controls changed. Goal unfinished; existing drafts and private recovery handoff preserved.
+
+
+## 2026-09-16 — Local CapSolver installation
+
+- Installed capsolver-core 0.1.1, capsolver-mcp 0.1.1 with browser extras, and Playwright 1.63.0 in this clone's existing ignored `.venv` (Python 3.14.6). Chromium 153.0.8010.12 and its headless shell are installed in the standard user Playwright cache.
+- Verified dependency consistency, package imports, MCP initialization/listing of all five tools, and launches of both Chromium variants. API credentials and MCP client registration were outside this installation request; no paid API call was made.
