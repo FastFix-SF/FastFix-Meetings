@@ -75,3 +75,5 @@ Last updated: 2026-09-09
 - Application continuation: completed five more live candidate checks; no new receipts in that batch. Three drafts/portal blockers and two scope exclusions recorded privately. Four additional candidates queued after duplicate review. Following batch observed live; full task remains unfinished.
 
 - Application checkpoint: 25 additional submissions independently receipt-verified. Following batch reached its turn limit; a targeted recovery was launched and observed live. Corrected an overly conservative account-entry blocker; remaining applications and discovery review are unfinished.
+
+- Application queue review: seven additional project-administration/support candidates queued after reviewing duties; another original-list repost excluded. Recovery process remains live with one draft blocked by CAPTCHA and a subsequent application navigation retry underway. Verified additional submissions remain25.
