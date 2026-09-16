@@ -81,3 +81,5 @@ Last updated: 2026-09-09
 - Application recovery completed with three actual challenge blockers and no new receipts. Ordinary portal email entry was verified to work; its later profile submission encountered a challenge-loading timeout. Next five-candidate batch launched. Additional verified total remains25; full task unfinished.
 
 - Application checkpoint: 26 additional submissions verified. A subsequent run stopped before browser work with a login error; fresh authentication and request checks succeeded, and the unopened batch was restarted with its failed log preserved. Remaining applications and discovery review are unfinished.
+
+- Application checkpoint: active batch progressed past a temporary loading failure. Two more drafts have factual/consent blockers, and one exact original-list duplicate was skipped. Remaining batch candidates are still processing; verified additional total remains26.
