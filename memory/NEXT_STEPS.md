@@ -39,3 +39,5 @@
 - Application continuation: resume the live process from the private handoff before launching another browser writer, then verify receipt evidence and continue the remaining queue. Preserve duplicate exclusions and unresolved factual blockers.
 
 - Verify the prepared continuation is actually sent in the requested Claude Work chat before resuming application execution; use private recovery handoff and avoid simultaneous browser writers.
+
+- Application run: complete normal interactive authentication in the intended Claude account/environment, then verify a harmless authenticated request before resuming batch11. Preserve queue/exclusions and do not retry denied alternatives.
