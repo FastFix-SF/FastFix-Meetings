@@ -77,3 +77,5 @@ Last updated: 2026-09-09
 - Application checkpoint: 25 additional submissions independently receipt-verified. Following batch reached its turn limit; a targeted recovery was launched and observed live. Corrected an overly conservative account-entry blocker; remaining applications and discovery review are unfinished.
 
 - Application queue review: seven additional project-administration/support candidates queued after reviewing duties; another original-list repost excluded. Recovery process remains live with one draft blocked by CAPTCHA and a subsequent application navigation retry underway. Verified additional submissions remain25.
+
+- Application recovery completed with three actual challenge blockers and no new receipts. Ordinary portal email entry was verified to work; its later profile submission encountered a challenge-loading timeout. Next five-candidate batch launched. Additional verified total remains25; full task unfinished.
