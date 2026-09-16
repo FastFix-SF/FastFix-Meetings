@@ -37,3 +37,5 @@
 - Expanded application run: poll the live recovery process using the private handoff, verify receipts, and continue screening/submission with duplicate and employer-contact restrictions. Discovery records are not submission counts.
 
 - Application continuation: resume the live process from the private handoff before launching another browser writer, then verify receipt evidence and continue the remaining queue. Preserve duplicate exclusions and unresolved factual blockers.
+
+- Verify the prepared continuation is actually sent in the requested Claude Work chat before resuming application execution; use private recovery handoff and avoid simultaneous browser writers.
