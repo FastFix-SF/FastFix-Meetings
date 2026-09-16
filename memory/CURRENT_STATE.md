@@ -85,3 +85,5 @@ Last updated: 2026-09-09
 - Application checkpoint: active batch progressed past a temporary loading failure. Two more drafts have factual/consent blockers, and one exact original-list duplicate was skipped. Remaining batch candidates are still processing; verified additional total remains26.
 
 - Application handoff checkpoint: latest batch completed with 26 additional verified submissions. Original saved résumé download independently verified and retained privately. Claude Work target chat located, but sending the continuation was not confirmed because UI controls were inaccessible. Full task unfinished; private recovery handoff is current.
+
+- Claude Work UI restored through normal application-menu quit and restart. Existing continuation message now visibly confirmed received; task resumed. Child CLI authentication remains under diagnosis, distinct from terminal login. Agent Reach found Reddit macOS freeze reports and upstream USER/config-directory Keychain issues; sent read-only diagnostic findings to the existing chat. No approval controls changed; no new verified submission count.
