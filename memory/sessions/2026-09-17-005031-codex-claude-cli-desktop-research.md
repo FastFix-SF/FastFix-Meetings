@@ -1,0 +1,9 @@
+# Claude Code CLI versus desktop research
+
+- User requested Agent Reach research, prioritizing YouTube or other sources published within the last three months: June 16–September 16, 2026.
+- Used Agent Reach Exa search, yt-dlp video metadata and actual English subtitles, and Jina to read the official desktop documentation. Temporary research outputs remained in /tmp. Agent Reach 1.5.0 reported current.
+- Verified recent videos: Greg Isenberg, “Claude Code New Features, Explained,” August 17, 2026 (https://www.youtube.com/watch?v=SkY-tR9kf-k), with desktop preference/setup discussion around 5:52; Futurepedia, “Claude Chat vs Cowork vs Code: Which One Should You Use?”, July 27, 2026 (https://www.youtube.com/watch?v=PtGQaduZwmA), broader product explainer with Code discussion around 7:30. Neither is a dedicated exhaustive CLI-versus-desktop comparison.
+- Direct recent written comparison: ClockedCode, July 23, 2026, https://clockedcode.com/blog/claude-code-vs-claude-desktop. Cross-checked against https://code.claude.com/docs/en/desktop#coming-from-the-cli; current official docs supersede article claims about exclusive features.
+- Findings: local desktop Code and CLI share CLAUDE.md, settings, skills/hooks, and MCP configuration. Desktop emphasizes visual review and session management; CLI exposes headless/scripted execution. Current desktop also supports scheduled tasks; current CLI supports computer use on macOS. Do not treat all browser/computer control or scheduling as CLI-only or desktop-only.
+- Recommendation (not an approved decision): desktop Code tab for John's daily hands-on work, CLI for scripted automation. Existing project .venv is reusable only when accessing the same local checkout; cloud sessions and separate worktrees do not automatically carry its ignored files.
+- Research complete; no software or MCP configuration changed.
