@@ -5,3 +5,5 @@ Authorized browser profile is available again. Current application reached final
 User confirmed continuation; reviewed application submitted and post-apply receipt verified. Additional-run total27. Native receipt verification added privately; reporting reconciled. Same-title alternative location held for distinct requisition verification; next employer application begun.
 
 Prepared two further final reviews, one blocked by an actual CAPTCHA. Two other drafts need specific factual answers; async questions sent. Corrected an incorrect prefilled sponsorship answer before any submission. No paid CAPTCHA use. Private handoff/report preserve per-job evidence;27 additional confirmed.
+
+Two pending final reviews are now fully submitted with receipts, bringing additional-run count29. An actual CAPTCHA checkbox completed normally with user confirmation; no CapSolver credits spent. Next employer asked undisclosed personal-history/conflict questions; preserved draft, asked user, and continued to dispatcher queue.

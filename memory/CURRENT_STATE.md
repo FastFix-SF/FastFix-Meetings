@@ -111,3 +111,5 @@ Last updated: 2026-09-09
 - Application checkpoint: one new submission verified from a native browser confirmation; additional-run total27. Private reconciler now supports captured native receipts alongside legacy receipts. A possible same-employer repost is held for requisition verification; next distinct employer application started.
 
 - Application continuation:27 additional submissions verified. Two applications reached final review (one with a CAPTCHA); two drafts need factual answers. Specific confirmations/questions sent; drafts retained in authorized browser. No paid CAPTCHA usage this checkpoint.
+
+- Application checkpoint: two more applications fully submitted and native confirmation receipts verified; additional-run total29. CAPTCHA checkbox completed successfully without paid solving. Further factual blockers asked asynchronously; next dispatcher application underway.
