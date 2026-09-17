@@ -107,3 +107,5 @@ Last updated: 2026-09-09
 - Native browser access restored temporarily and intended profile/account verified. First queued listing had a disabled Apply control; no form or submission. Repeated window-change interruptions and a transient screen-capture failure prevent reliable native form work. Private evidence/report now26 verified,47 queued,20 blocked; requested uninterrupted access to intended browser window. Full California goal remains unfinished, Bay Area first.
 
 - Direct browser continuation restored in the authorized profile. One application reached review; action-time terms confirmation is pending, and a separate blank-loading attempt was recorded. No new submission receipts. Private handoff contains current UI state.
+
+- Application checkpoint: one new submission verified from a native browser confirmation; additional-run total27. Private reconciler now supports captured native receipts alongside legacy receipts. A possible same-employer repost is held for requisition verification; next distinct employer application started.
