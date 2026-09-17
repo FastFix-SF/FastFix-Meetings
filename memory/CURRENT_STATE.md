@@ -101,3 +101,5 @@ Last updated: 2026-09-09
 
 - Installed capsolver-core 0.1.1, capsolver-mcp 0.1.1 with browser extras, and Playwright 1.63.0 in this clone's existing ignored `.venv` (Python 3.14.6). Chromium 153.0.8010.12 and its headless shell are installed in the standard user Playwright cache.
 - Verified dependency consistency, package imports, MCP initialization/listing of all five tools, and launches of both Chromium variants. API credentials and MCP client registration were outside this installation request; no paid API call was made.
+
+- Application scope expanded by user to California statewide, Bay Area first, with Codex executing directly. Reopened two geography-only exclusions for later California processing. Current private report26 additional verified submissions,48 queued,19 blocked. Correct Chrome profile observed, but native access became unavailable after user changed window; connected browser extension exposes wrong profile. No applications submitted this turn; awaiting correct browser availability. Private recovery handoff updated.
