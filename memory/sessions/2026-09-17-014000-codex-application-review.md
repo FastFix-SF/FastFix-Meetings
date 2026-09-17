@@ -11,3 +11,5 @@ Two pending final reviews are now fully submitted with receipts, bringing additi
 Follow-up: disk storage available again, but native browser control still fails with AppleEvent timeout, including a fresh connection after control-session reset. New applicant answers saved privately. No further submissions;29 additional verified. Next: normal browser recovery and re-inspection of retained draft.
 
 Continuation connectivity check: native Chrome responds; Indeed still has connection timeout. Google search works and yielded an official direct employer posting for the interrupted vacancy. Direct portal opened but application controls have not loaded; independent HTTP request timed out. No new submissions. Private handoff retains direct URL for recovery.
+
+Direct employer portal eventually loaded; approved resume uploaded and applicant profile prepared. Required new-password creation prompted tool-mandated user handoff. No new submission;29 additional verified. Private handoff updated.
