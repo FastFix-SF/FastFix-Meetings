@@ -47,3 +47,5 @@
 - Resolve pending application confirmations/factual questions using private handoff; verify receipts and continue next queued employer. Current direct browser workflow supersedes older Claude authentication next steps.
 
 - Resume live employer completion flow and pending CAPTCHA from private handoff. Keep employer-required follow-ups separate from final completion counts; continue remaining queue.
+
+- Continue stalled application review and next queued employers from private handoff; resolve pending factual answers and CAPTCHA confirmation when supplied.
