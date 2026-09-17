@@ -113,3 +113,5 @@ Last updated: 2026-09-09
 - Application continuation:27 additional submissions verified. Two applications reached final review (one with a CAPTCHA); two drafts need factual answers. Specific confirmations/questions sent; drafts retained in authorized browser. No paid CAPTCHA usage this checkpoint.
 
 - Application checkpoint: two more applications fully submitted and native confirmation receipts verified; additional-run total29. CAPTCHA checkbox completed successfully without paid solving. Further factual blockers asked asynchronously; next dispatcher application underway.
+
+- Application checkpoint: one employer-directed email application sent with visible Gmail confirmation. Final review for another application awaits CAPTCHA confirmation. Employer follow-up emails showed two prior Indeed submissions still require employer-side completion; private report now distinguishes these from completed submissions. Resume/autofill review removed unsupported education and corrected employer-contact permission. Private handoff updated; no paid CAPTCHA use this checkpoint.

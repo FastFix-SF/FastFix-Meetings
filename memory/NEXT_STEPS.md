@@ -45,3 +45,5 @@
 - Continue direct browser application review from the private handoff after pending terms confirmation; verify receipt before updating counts. Use the authorized profile and retain duplicate exclusions.
 
 - Resolve pending application confirmations/factual questions using private handoff; verify receipts and continue next queued employer. Current direct browser workflow supersedes older Claude authentication next steps.
+
+- Resume live employer completion flow and pending CAPTCHA from private handoff. Keep employer-required follow-ups separate from final completion counts; continue remaining queue.
