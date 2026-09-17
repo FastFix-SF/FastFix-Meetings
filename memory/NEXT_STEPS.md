@@ -49,3 +49,5 @@
 - Resume live employer completion flow and pending CAPTCHA from private handoff. Keep employer-required follow-ups separate from final completion counts; continue remaining queue.
 
 - Continue stalled application review and next queued employers from private handoff; resolve pending factual answers and CAPTCHA confirmation when supplied.
+
+- Resume private application queue: pending CAPTCHA review, employer authentication handoff, remaining Bay Area admin roles. Recheck live receipts before counting or retrying. Network recovery is partial.
