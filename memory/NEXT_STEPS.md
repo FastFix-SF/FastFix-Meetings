@@ -43,3 +43,5 @@
 - Application run: complete normal interactive authentication in the intended Claude account/environment, then verify a harmless authenticated request before resuming batch11. Preserve queue/exclusions and do not retry denied alternatives.
 
 - Continue direct browser application review from the private handoff after pending terms confirmation; verify receipt before updating counts. Use the authorized profile and retain duplicate exclusions.
+
+- Resolve pending application confirmations/factual questions using private handoff; verify receipts and continue next queued employer. Current direct browser workflow supersedes older Claude authentication next steps.

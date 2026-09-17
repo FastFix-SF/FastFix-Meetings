@@ -109,3 +109,5 @@ Last updated: 2026-09-09
 - Direct browser continuation restored in the authorized profile. One application reached review; action-time terms confirmation is pending, and a separate blank-loading attempt was recorded. No new submission receipts. Private handoff contains current UI state.
 
 - Application checkpoint: one new submission verified from a native browser confirmation; additional-run total27. Private reconciler now supports captured native receipts alongside legacy receipts. A possible same-employer repost is held for requisition verification; next distinct employer application started.
+
+- Application continuation:27 additional submissions verified. Two applications reached final review (one with a CAPTCHA); two drafts need factual answers. Specific confirmations/questions sent; drafts retained in authorized browser. No paid CAPTCHA usage this checkpoint.
