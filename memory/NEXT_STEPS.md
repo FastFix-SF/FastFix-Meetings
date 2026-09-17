@@ -41,3 +41,5 @@
 - Verify the prepared continuation is actually sent in the requested Claude Work chat before resuming application execution; use private recovery handoff and avoid simultaneous browser writers.
 
 - Application run: complete normal interactive authentication in the intended Claude account/environment, then verify a harmless authenticated request before resuming batch11. Preserve queue/exclusions and do not retry denied alternatives.
+
+- Continue direct browser application review from the private handoff after pending terms confirmation; verify receipt before updating counts. Use the authorized profile and retain duplicate exclusions.
