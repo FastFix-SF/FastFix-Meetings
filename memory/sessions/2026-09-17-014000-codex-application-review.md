@@ -9,3 +9,5 @@ Prepared two further final reviews, one blocked by an actual CAPTCHA. Two other 
 Two pending final reviews are now fully submitted with receipts, bringing additional-run count29. An actual CAPTCHA checkbox completed normally with user confirmation; no CapSolver credits spent. Next employer asked undisclosed personal-history/conflict questions; preserved draft, asked user, and continued to dispatcher queue.
 
 Follow-up: disk storage available again, but native browser control still fails with AppleEvent timeout, including a fresh connection after control-session reset. New applicant answers saved privately. No further submissions;29 additional verified. Next: normal browser recovery and re-inspection of retained draft.
+
+Continuation connectivity check: native Chrome responds; Indeed still has connection timeout. Google search works and yielded an official direct employer posting for the interrupted vacancy. Direct portal opened but application controls have not loaded; independent HTTP request timed out. No new submissions. Private handoff retains direct URL for recovery.
