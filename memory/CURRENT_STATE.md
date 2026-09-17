@@ -119,3 +119,5 @@ Last updated: 2026-09-09
 - Application continuation: one new receipt-verified submission. Two listings explicitly expired. One draft saved pending factual screening answers; next application reached review but its preview is stalled after one reload. Private evidence and handoff updated. CAPTCHA and required-education questions remain pending; no paid solver use.
 
 - Application checkpoint (September 17): Indeed recovered sufficiently to render a previously stalled final review, now awaiting specific CAPTCHA confirmation. Another employer portal requires sign-in; a separate redirect timed out. One technical non-admin vacancy excluded after live inspection. No new submissions or paid CAPTCHA requests. Private handoff and reconciled queue updated. Shared-memory fetch timed out; local checkpoint pending sync.
+
+- September17 browser checkpoint: official employer careers page recovered and five further admin candidates saved privately for duplicate/scope review. Submission work interrupted by repeated profile/window changes; requested stable authorized window. No new receipts or solver spending.
