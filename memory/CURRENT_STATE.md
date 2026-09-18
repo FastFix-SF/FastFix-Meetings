@@ -192,3 +192,5 @@ Batch 41: two more saved applications recovered to final review; CAPTCHA confirm
 Batch 42: another application recovered to final review; CAPTCHA approval pending. Completed total remains 73.
 
 Batch 43: employer follow-up item 17 recovered to official portal; mandatory certification/privacy consent awaits confirmation. Total remains 73.
+
+Application run blocked pending existing confirmations, factual answers, credential handoffs, or external-state changes. Live employer consent remains unchecked with Next disabled. Completed total73; no new solver spending.

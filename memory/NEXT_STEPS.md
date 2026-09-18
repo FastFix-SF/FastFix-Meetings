@@ -109,3 +109,5 @@ Process pending CAPTCHA confirmations for private queue items 53/54, then verify
 Private queue item 72 is now at final review alongside previously recovered drafts; process its pending CAPTCHA confirmation and verify receipt before counting it.
 
 Resume private employer follow-up item 17 when its consent response arrives; native browser is on the entry consent page. Keep incomplete employer follow-ups excluded from completed total.
+
+Resume application run when pending answers/confirmations or browser/solver state changes arrive. Use private recovery handoff and saved drafts; avoid unchanged retry loops. Goal is incomplete.
