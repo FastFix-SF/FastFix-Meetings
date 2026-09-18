@@ -196,3 +196,5 @@ Batch 43: employer follow-up item 17 recovered to official portal; mandatory cer
 Application run blocked pending existing confirmations, factual answers, credential handoffs, or external-state changes. Live employer consent remains unchecked with Next disabled. Completed total73; no new solver spending.
 
 Local solver MCP verified working over stdio, including authenticated read-only balance check. Absence from active tool inventory does not mean installation unavailable. Pending confirmations/factual answers still block application completion.
+
+Resumed run blocked again after three consecutive turns with unresolved input/confirmation requirements. Local solver verified functional; total remains73.
