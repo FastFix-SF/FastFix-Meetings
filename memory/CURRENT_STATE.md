@@ -129,3 +129,5 @@ Last updated: 2026-09-09
 - September18 resumed application check: prior application windows absent; attempted reopening from private handoff. Solver dashboard authentication required phone verification; subsequent callback observed but successful login not verified. Window-change errors again prevented stable application control. No new receipts or paid solver requests.
 
 - Application extension recovery: authorized Chrome extension now works. Three live application flows preserved; pending CAPTCHA, new employer terms, and credential handoff. No new receipts or solver spending; private handoff supersedes native-browser blocker.
+
+- Extension submission verified: one additional application confirmed by both platform receipt and employer acknowledgment. CAPTCHA cleared without paid solver after confirmation; remaining employer terms/credential blockers persist. Private report updated.
