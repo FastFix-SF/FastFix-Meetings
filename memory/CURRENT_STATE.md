@@ -133,3 +133,5 @@ Last updated: 2026-09-09
 - Extension submission verified: one additional application confirmed by both platform receipt and employer acknowledgment. CAPTCHA cleared without paid solver after confirmation; remaining employer terms/credential blockers persist. Private report updated.
 
 - Application continuation: three more verified submissions through working extension. Remaining forms include factual questions, prior-employer-contact restriction, employer terms, credentials, and file-upload permission blockers. Private evidence/report updated; no new paid solver use.
+
+- Application continuation: one further employer-confirmed submission; browser extension recovered under a new connection ID. Two more forms await CAPTCHA confirmation or required experience facts. Private handoff holds current tabs; no new paid CAPTCHA use.
