@@ -165,3 +165,6 @@ Latest browser status: saved form recovered to required mobile-country selector,
 Native browser recovered enough to correct saved contact fields. Required education qualification remains pending. Mac then locked; automatic unlock explicitly failed, user asked for manual unlock. New employer follow-up still unverified; completed total70, no paid solver requests. Private tracker updated. Next: resume saved form and receipt follow-up after unlock.
 
 Application recovery check: native capture failed; authorized Chrome extension is absent from current browser inventory. No submissions or paid solver requests. Existing manual-unlock request remains pending; exact recovery evidence recorded privately.
+
+### Application checkpoint 2026-09-18-223739
+Browser recovered. Previously submitted application now email-confirmed with no required completion steps; verified total71. Another employer form recovered, revealing required education and company-affiliation questions; answers pending. No new paid solver requests. Private tracker contains receipt hashes, exact URLs and blockers. Next resolve factual answers, resume saved forms and outstanding employer-consent steps.
