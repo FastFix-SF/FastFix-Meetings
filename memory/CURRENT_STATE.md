@@ -190,3 +190,5 @@ Recovered and corrected another saved application to final review; submission re
 Batch 41: two more saved applications recovered to final review; CAPTCHA confirmations pending. Verified completed total remains 73; no new solver spend.
 
 Batch 42: another application recovered to final review; CAPTCHA approval pending. Completed total remains 73.
+
+Batch 43: employer follow-up item 17 recovered to official portal; mandatory certification/privacy consent awaits confirmation. Total remains 73.

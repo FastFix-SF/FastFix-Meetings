@@ -107,3 +107,5 @@ Recovered and corrected another saved application to final review; submission re
 Process pending CAPTCHA confirmations for private queue items 53/54, then verify receipts and required employer follow-up. Both final-review drafts remain open in the authorized Chrome profile.
 
 Private queue item 72 is now at final review alongside previously recovered drafts; process its pending CAPTCHA confirmation and verify receipt before counting it.
+
+Resume private employer follow-up item 17 when its consent response arrives; native browser is on the entry consent page. Keep incomplete employer follow-ups excluded from completed total.
