@@ -147,3 +147,7 @@ Browser access recovered. Corrected erroneous autofilled application fields and 
 
 ### 2026-09-18-202531
 Reviewed remaining queue: one expired listing recorded, two senior technical roles excluded from administrative scope, and one duplicate employer requisition confirmed. Another application advanced to second screening page but is not submitted. Completed count remains 70; no new paid CAPTCHA requests. Browser interruption prevents return to the saved form. Continue that form when browser control recovers; employer consent and qualification questions remain pending.
+
+
+### Browser blocker 2026-09-18-203405
+Third consecutive no-progress recovery: authorized extension inventory times out; native browser briefly allowed opening Raymus47, then foreground switched to unrelated sign-in before application content could be inspected. No submission or paid solver action. Browser availability requires external change. Goal blocked; next concrete action is restore stable Sebastian profile control, inspect saved Vanir/ISAT forms and Raymus tab, then resume. Completed total70; employer-consent and qualification answers remain pending.
