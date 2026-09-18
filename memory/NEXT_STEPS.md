@@ -77,3 +77,5 @@ Third consecutive no-progress recovery: authorized extension inventory times out
 Native browser briefly recovered. Reload resolved stalled application, and employment history was corrected with no-employer-contact selected. No submission: native control then reported no windows available while advancing. Completion count remains 70; no new paid solver use. Next: recover browser and continue the existing employment form.
 
 - Latest application continuation: verify employer follow-up for new Indeed receipt, resume recovered saved form, and resolve existing factual/consent blockers. Do not count receipt-only outcome as fully complete yet.
+
+Latest browser status: saved form recovered to required mobile-country selector, then native control returned noWindowsAvailable. No further submission. Resume selector after browser recovery and check new receipt for employer follow-up; total remains70.
