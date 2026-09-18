@@ -135,3 +135,7 @@ Last updated: 2026-09-09
 - Application continuation: three more verified submissions through working extension. Remaining forms include factual questions, prior-employer-contact restriction, employer terms, credentials, and file-upload permission blockers. Private evidence/report updated; no new paid solver use.
 
 - Application continuation: one further employer-confirmed submission; browser extension recovered under a new connection ID. Two more forms await CAPTCHA confirmation or required experience facts. Private handoff holds current tabs; no new paid CAPTCHA use.
+
+
+### Application continuation 2026-09-18-201543
+Verified completion count reconciled to 70 using existing receipts. No additional submission or paid CAPTCHA request in this continuation. One remaining listing is expired; another application is saved at required contact fields. Authorized browser connection failed again, including native access. Private tracker contains exact state and evidence. Next: recover the authorized browser and resume the saved form without duplicating completed applications. Education qualification clarification remains pending.

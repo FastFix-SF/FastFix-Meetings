@@ -55,3 +55,7 @@
 - Continue application run using working authorized Chrome extension and private recovery handoff; resolve current confirmations and credential handoff, verify receipts before updating completion counts.
 
 - Application run: continue remaining Bay Area queue from private handoff. Resume preserved employer upload after extension file-URL access enabled; resolve pending employer terms and experience questions without inventing facts or authorizing employer contact.
+
+
+### Application continuation 2026-09-18-201543
+Verified completion count reconciled to 70 using existing receipts. No additional submission or paid CAPTCHA request in this continuation. One remaining listing is expired; another application is saved at required contact fields. Authorized browser connection failed again, including native access. Private tracker contains exact state and evidence. Next: recover the authorized browser and resume the saved form without duplicating completed applications. Education qualification clarification remains pending.
