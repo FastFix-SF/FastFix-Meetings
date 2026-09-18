@@ -160,3 +160,6 @@ Native browser briefly recovered. Reload resolved stalled application, and emplo
 One additional Indeed submission receipt verified; employer email check still pending, so fully completed total remains 70. Final untouched queued listing expired. No paid solver requests. Exact evidence and application handles remain in private run directory.
 
 Latest browser status: saved form recovered to required mobile-country selector, then native control returned noWindowsAvailable. No further submission. Resume selector after browser recovery and check new receipt for employer follow-up; total remains70.
+
+### Application continuation 2026-09-18-220648
+Native browser recovered enough to correct saved contact fields. Required education qualification remains pending. Mac then locked; automatic unlock explicitly failed, user asked for manual unlock. New employer follow-up still unverified; completed total70, no paid solver requests. Private tracker updated. Next: resume saved form and receipt follow-up after unlock.
