@@ -94,3 +94,6 @@ One further administrative/accounting application fully submitted with receipt a
 
 ### Application checkpoint 2026-09-18-225523
 Recovered another application to final review; specific CAPTCHA approval pending. Two employer-entry/identity checks remain unresolved. No new submissions or paid solver requests; verified total73. Preserve ready review and avoid potential duplicate. Private tracker holds current page states and next actions.
+
+### Application checkpoint 2026-09-18-230006
+Recovered employer redirect to application authentication/terms screen, pending existing consent approval. Two previously saved listings now verified expired. No new submissions or paid solver requests; total73. Exact statuses, employer requisition and next actions saved privately.
