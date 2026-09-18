@@ -125,3 +125,5 @@ Last updated: 2026-09-09
 - Latest application recovery: authorized browser restored through window menu; next relevant Bay Area form populated with supported answers. Review transition stalled; reload attempt interrupted by another window change. No submission receipt. Private handoff records exact form state for recovery.
 
 - Application access blocker persists across repeated recovery attempts: native browser switches away from authorized profile during actions. One draft recovered to review preparation; another potential duplicate confirmed distinct and employer redirect opened. No new receipts. Stable authorized browser access is required to resume reliable submissions.
+
+- September18 resumed application check: prior application windows absent; attempted reopening from private handoff. Solver dashboard authentication required phone verification; subsequent callback observed but successful login not verified. Window-change errors again prevented stable application control. No new receipts or paid solver requests.
