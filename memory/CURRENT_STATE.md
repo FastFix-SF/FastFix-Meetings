@@ -186,3 +186,5 @@ Another saved application recovered and reviewed; final submission blocked by CA
 
 ### Application checkpoint 2026-09-18-231412
 Recovered and corrected another saved application to final review; submission requires pending CAPTCHA confirmation. Optional profile link removed and availability updated. Verified total73, no paid solver requests. Private tracker contains exact continuation state.
+
+Batch 41: two more saved applications recovered to final review; CAPTCHA confirmations pending. Verified completed total remains 73; no new solver spend.
