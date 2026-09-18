@@ -51,3 +51,5 @@
 - Continue stalled application review and next queued employers from private handoff; resolve pending factual answers and CAPTCHA confirmation when supplied.
 
 - Resume private application queue: pending CAPTCHA review, employer authentication handoff, remaining Bay Area admin roles. Recheck live receipts before counting or retrying. Network recovery is partial.
+
+- Continue application run using working authorized Chrome extension and private recovery handoff; resolve current confirmations and credential handoff, verify receipts before updating completion counts.

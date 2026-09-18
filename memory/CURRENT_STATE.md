@@ -127,3 +127,5 @@ Last updated: 2026-09-09
 - Application access blocker persists across repeated recovery attempts: native browser switches away from authorized profile during actions. One draft recovered to review preparation; another potential duplicate confirmed distinct and employer redirect opened. No new receipts. Stable authorized browser access is required to resume reliable submissions.
 
 - September18 resumed application check: prior application windows absent; attempted reopening from private handoff. Solver dashboard authentication required phone verification; subsequent callback observed but successful login not verified. Window-change errors again prevented stable application control. No new receipts or paid solver requests.
+
+- Application extension recovery: authorized Chrome extension now works. Three live application flows preserved; pending CAPTCHA, new employer terms, and credential handoff. No new receipts or solver spending; private handoff supersedes native-browser blocker.
