@@ -111,3 +111,5 @@ Private queue item 72 is now at final review alongside previously recovered draf
 Resume private employer follow-up item 17 when its consent response arrives; native browser is on the entry consent page. Keep incomplete employer follow-ups excluded from completed total.
 
 Resume application run when pending answers/confirmations or browser/solver state changes arrive. Use private recovery handoff and saved drafts; avoid unchanged retry loops. Goal is incomplete.
+
+Use verified local solver MCP after required pending confirmations; preserve budget and verify actual submission. Do not reinstall solver or repeat unchanged installation diagnostics.

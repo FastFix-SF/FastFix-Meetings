@@ -194,3 +194,5 @@ Batch 42: another application recovered to final review; CAPTCHA approval pendin
 Batch 43: employer follow-up item 17 recovered to official portal; mandatory certification/privacy consent awaits confirmation. Total remains 73.
 
 Application run blocked pending existing confirmations, factual answers, credential handoffs, or external-state changes. Live employer consent remains unchecked with Next disabled. Completed total73; no new solver spending.
+
+Local solver MCP verified working over stdio, including authenticated read-only balance check. Absence from active tool inventory does not mean installation unavailable. Pending confirmations/factual answers still block application completion.
