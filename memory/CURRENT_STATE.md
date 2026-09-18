@@ -151,3 +151,7 @@ Reviewed remaining queue: one expired listing recorded, two senior technical rol
 
 ### Browser blocker 2026-09-18-203405
 Third consecutive no-progress recovery: authorized extension inventory times out; native browser briefly allowed opening Raymus47, then foreground switched to unrelated sign-in before application content could be inspected. No submission or paid solver action. Browser availability requires external change. Goal blocked; next concrete action is restore stable Sebastian profile control, inspect saved Vanir/ISAT forms and Raymus tab, then resume. Completed total70; employer-consent and qualification answers remain pending.
+
+
+### 2026-09-18-204646
+Native browser briefly recovered. Reload resolved stalled application, and employment history was corrected with no-employer-contact selected. No submission: native control then reported no windows available while advancing. Completion count remains 70; no new paid solver use. Next: recover browser and continue the existing employment form.
