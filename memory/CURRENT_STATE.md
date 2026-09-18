@@ -180,3 +180,6 @@ Recovered another application to final review; specific CAPTCHA approval pending
 
 ### Application checkpoint 2026-09-18-230006
 Recovered employer redirect to application authentication/terms screen, pending existing consent approval. Two previously saved listings now verified expired. No new submissions or paid solver requests; total73. Exact statuses, employer requisition and next actions saved privately.
+
+### Application checkpoint 2026-09-18-230353
+Another saved application recovered and reviewed; final submission blocked by CAPTCHA, specific confirmation pending. No new submissions or paid solver requests; verified total73. Current ready draft and next action recorded privately.
