@@ -105,3 +105,5 @@ Another saved application recovered and reviewed; final submission blocked by CA
 Recovered and corrected another saved application to final review; submission requires pending CAPTCHA confirmation. Optional profile link removed and availability updated. Verified total73, no paid solver requests. Private tracker contains exact continuation state.
 
 Process pending CAPTCHA confirmations for private queue items 53/54, then verify receipts and required employer follow-up. Both final-review drafts remain open in the authorized Chrome profile.
+
+Private queue item 72 is now at final review alongside previously recovered drafts; process its pending CAPTCHA confirmation and verify receipt before counting it.
