@@ -155,3 +155,6 @@ Third consecutive no-progress recovery: authorized extension inventory times out
 
 ### 2026-09-18-204646
 Native browser briefly recovered. Reload resolved stalled application, and employment history was corrected with no-employer-contact selected. No submission: native control then reported no windows available while advancing. Completion count remains 70; no new paid solver use. Next: recover browser and continue the existing employment form.
+
+### Application checkpoint 2026-09-18 Vanir
+One additional Indeed submission receipt verified; employer email check still pending, so fully completed total remains 70. Final untouched queued listing expired. No paid solver requests. Exact evidence and application handles remain in private run directory.
