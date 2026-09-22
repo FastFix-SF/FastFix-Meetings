@@ -113,3 +113,5 @@ Resume private employer follow-up item 17 when its consent response arrives; nat
 Resume application run when pending answers/confirmations or browser/solver state changes arrive. Use private recovery handoff and saved drafts; avoid unchanged retry loops. Goal is incomplete.
 
 Use verified local solver MCP after required pending confirmations; preserve budget and verify actual submission. Do not reinstall solver or repeat unchanged installation diagnostics.
+
+Proposal only: if user chooses off-device execution, pilot existing ApplyPilot on persistent VPS with one worker, reconcile private submitted ledger first, and verify a complete application before scheduling. Standard upstream submit agent uses Claude Code; ChatGPT replacement requires separate validation. No deployment authorized or performed.
