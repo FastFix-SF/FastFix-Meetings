@@ -1,0 +1,3 @@
+# SSH screen clarification
+
+User showed Codex Settings > Connections > SSH with no host listed and asked whether this permits closing the Mac while this chat runs. Confirmed the screen configures outgoing SSH from the Mac; it does not itself provision a server or independent remote access to this exact chat. Clarified earlier overstatement: a background ApplyPilot worker on a separately provisioned persistent server can keep running with the Mac off, while Codex cloud would require a separate cloud chat. No setup or application work occurred. Next action, if requested: choose an always-on execution host and plan migration of private application state without putting applicant data or credentials in shared memory.
