@@ -1,5 +1,7 @@
 # Next Steps
 
+- Application checkpoint: recover stable control of Sebastian's `fastfix.ai` Chrome profile; reconcile recent applicant-mail receipts with the private ledger before retrying. Resume eligible saved drafts and employer completion forms, verify each final receipt, and keep CAPTCHA-blocked drafts out of the submitted count. Current verified total is 75, with no paid CapSolver request in this continuation. Follow the official ApplyPilot/CapSolver steps and choose a solver task only after identifying the live challenge.
+
 - Reconcile newer applicant-mail submission receipts against the private job ledger before sending any remaining applications. Reopen the live posting's reply route in the authorized applicant profile when browser control is stable. For CAPTCHA, match the page's actual challenge to CapSolver's documented task type and confirm a usable result before submission. Preserve the no-current-or-previous-employer-contact restriction.
 
 - Use the simplified Notion flow: move cards from `To Do` to `In Progress` to `Done`; set urgency to `High`, `Medium`, or `Low`. Keep the owner visible and record blockers inside the card.
