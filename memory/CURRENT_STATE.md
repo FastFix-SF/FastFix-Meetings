@@ -1,5 +1,7 @@
 # Current State
 
+- September 29 application continuation: the private ledger still confirms 73 fully completed submissions as of its September 18 checkpoint. The authorized applicant browser is accessible and shows newer application-related mail, so the ledger may be stale; no new count is claimed until receipts are reconciled. One still-live employer posting was checked, with no duplicate sent-mail match. Browser access timed out before its reply route could be completed. No application or paid CAPTCHA request was made. Use ApplyPilot and CapSolver documentation for any next tool step; verify receipts and applicant profile before submission.
+
 - ApplyPilot dashboard (September 16): a regenerable local `dashboard.py` → `dashboard.html` in the private Sebastian run directory shows verified submissions, blockers, queue, batch progress, live-worker status, and CAPTCHA spend, reading only the existing reconcile outputs. Private, unpublished. See the September 16 session note.
 
 - Simplified Notion workflow (September 9): all 79 FastFix Tasks now use only `To Do`, `In Progress`, or `Done`; urgency uses only `High`, `Medium`, or `Low`. The Today board groups by Stage and displays Task, Owner, Urgency, and Due. The prior review view is now `In Progress`; the archived backlog remains grouped by Stage; the advisor sprint list shows Stage and urgency. Page instructions now explain the three-stage workflow in English. Owners, dates, descriptions, and workstreams were preserved.

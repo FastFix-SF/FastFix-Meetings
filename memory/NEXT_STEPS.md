@@ -1,5 +1,7 @@
 # Next Steps
 
+- Reconcile newer applicant-mail submission receipts against the private job ledger before sending any remaining applications. Reopen the live posting's reply route in the authorized applicant profile when browser control is stable. For CAPTCHA, match the page's actual challenge to CapSolver's documented task type and confirm a usable result before submission. Preserve the no-current-or-previous-employer-contact restriction.
+
 - Use the simplified Notion flow: move cards from `To Do` to `In Progress` to `Done`; set urgency to `High`, `Medium`, or `Low`. Keep the owner visible and record blockers inside the card.
 
 - Review the `Advisor sprint — Sep 9–19` list with Sujay and change scope, owners, or priority before running the tasks. Immediate Today items: agree on success metrics, map customers and acquisition sources, join customer calls, set up compliant Indeed prospecting, apply to the Vercel startup program, grant minimum secure product access, pause lower-ROI work, and set daily build-or-sell priorities. Do not store credentials in Notion; revoke temporary advisor access after the engagement.
